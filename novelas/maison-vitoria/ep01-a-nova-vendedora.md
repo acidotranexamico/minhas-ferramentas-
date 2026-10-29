@@ -31,16 +31,18 @@ Rica, elegante, arrogante. Dona da grife de bolsas **Maison Vitória**.
 [STYLE] + Character portrait: VITÓRIA, a glamorous strawberry woman, bright red glossy strawberry head with tiny golden seeds and green leafy crown styled like a chic updo, sharp arched eyebrows, long lashes, red lipstick, cold arrogant expression, wearing oversized black sunglasses pushed up on her head, elegant white tailored blazer with gold buttons, pearl necklace, gold earrings, holding a small black luxury handbag, standing in a luxury boutique, full body, looking down at the camera with disdain
 ```
 
+> ✅ A Vitória Morango gerada com o prompt acima ficou aprovada. Use a imagem dela como **referência de estilo** (no Flow: botão **+**) ao gerar a Lia e o Caio com os prompts abaixo (versão 2).
+
 ### 🍑 Lia Pêssego – a nova vendedora
 Doce, educada, humilde. Primeiro dia de trabalho.
 ```
-[STYLE] + Character portrait: LIA, a sweet young peach woman, soft fuzzy peach head with warm orange-pink gradient and a small green leaf on top like a hair clip, big kind brown eyes, gentle shy smile, wearing a neat black boutique uniform dress with a small gold name tag reading "LIA", simple black flats, hands clasped in front, standing in a luxury handbag boutique, full body, warm hopeful expression
+Same art style, lighting and level of detail as the reference strawberry image. Stylized hyper-realistic 3D character like a high-end animated film. LIA, a beautiful young peach woman around 22 years old: her face is sculpted out of the peach itself, soft velvety peach-fuzz skin texture covering the whole face, warm orange-pink gradient, NO human skin, NOT a human face pasted on a fruit. Big expressive brown eyes with long lashes, soft natural makeup, glossy pink lips, sweet shy smile. Two green peach leaves on top styled like a cute hair accessory. Head in natural proportion to the body, not oversized. Slim adult body wearing an elegant fitted black boutique uniform dress with a small gold name tag, holding a cream luxury handbag, slightly tilted head, natural relaxed pose. Luxury handbag boutique with gold shelves and marble floor, soft warm cinematic lighting, shallow depth of field, vertical 9:16.
 ```
 
 ### 🥭 Caio Manga – o namorado da CEO
 Bonito, rico, mas tem bom coração. Não concorda com o jeito da namorada.
 ```
-[STYLE] + Character portrait: CAIO, a handsome mango man, smooth glossy mango head with green-to-golden-yellow gradient and a short stem on top, strong jaw, kind thoughtful eyes, light stubble, wearing a navy blue fitted suit with an open white shirt, luxury watch, carrying several shopping bags, full body, calm and gentle expression
+Same art style, lighting and level of detail as the reference strawberry image. Stylized hyper-realistic 3D character like a high-end animated film. CAIO, a handsome mango man around 30 years old: his face is sculpted out of the mango itself, smooth glossy mango skin with a green-to-golden-yellow gradient covering the whole face, NO human skin, NOT a real human face pasted on a fruit. Sharp defined jawline, thick dark eyebrows, kind deep brown eyes, light stubble texture, charming confident half-smile. Mango stem and two dark green leaves on top styled like a modern hairstyle. Head in natural proportion to the body, not oversized. Athletic body in a fitted navy blue suit with an open white shirt and a gold watch, one hand in his pocket, holding luxury shopping bags with the other. Inside the same luxury boutique, soft warm cinematic lighting, shallow depth of field, vertical 9:16.
 ```
 
 ---
