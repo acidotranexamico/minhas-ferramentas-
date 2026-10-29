@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-image-generation": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/image/ai-image-generation/SKILL.md",
+      "computedHash": "094a658fbbfce7701ad8dfcf295bf66a72c564fd793cdebc0e3bbdb1c04b2358"
+    },
+    "elevenlabs-tts": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-tts/SKILL.md",
+      "computedHash": "4eaac07edaed21df7d0a3ebdd5dcb9a83c3265dc5a7c19ddefb32b1673a82b01"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "google-veo": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/video/google-veo/SKILL.md",
+      "computedHash": "757c11c72b8e7bf66a2305025a4bfdec9ae22fd693bcfe8d49b476d7fe7b0718"
+    },
+    "image-to-video": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/video/image-to-video/SKILL.md",
+      "computedHash": "bad390e9ab8f7f11fc2ab4249fb71eaeb5a0104cecde1184fcfc1ee5c6b757c1"
+    },
+    "remotion-best-practices": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-best-practices/SKILL.md",
+      "computedHash": "e3cc169fcb69c59efd9c3f1feaf0bdbf124488aec9dd2809266733f4d615b90a"
+    },
+    "remotion-captions": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-captions/SKILL.md",
+      "computedHash": "e997ec4674833ff2605d2db6ae6fe023799267c25a9015e886114ea27e906b34"
+    },
+    "remotion-render": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-render/SKILL.md",
+      "computedHash": "f681e71be3f6853552c57fccc5224be62edf58182cbd266100e7153f196d6731"
+    },
+    "seedance": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "tools/video/seedance/SKILL.md",
+      "computedHash": "406632992062e50e267bb8352543e7a63909358ac8dc975c3c2a64465df06c70"
+    },
+    "storyboard-creation": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "guides/video/storyboard-creation/SKILL.md",
+      "computedHash": "6848d2b5a89a3648f7f528a0c08a91e6f4be659a7c233c1e6ebf8ed316fb5561"
+    },
+    "video-prompting-guide": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "skillPath": "guides/prompting/video-prompting-guide/SKILL.md",
+      "computedHash": "07dc5248820a36b7a22939c0b02105a63edded5013cc1657ad115c942cc104b7"
+    }
+  }
+}
