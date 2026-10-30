@@ -5,7 +5,7 @@
 - **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
 - **Local:** bodega de Santa Luzia, madrugada, diante da Viúva Branca.
 - **PV:** 8/12 · **XP:** 4/5 · **Dívida:** 2
-- **Equipamento:** Pão de Alho remontado e carregado (6 tiros), 17 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -81,3 +81,4 @@
 - Jax saiu do cemitério pelo caminho longo (Furtividade 21 vs CD 14, sucesso pleno). Ouviu a Viúva mandar os guardas chamarem o sargento e falar sozinha para a cova: 'Eu não vim te matar. Ainda.' Ela vai estar na bodega até o sol nascer e quer conversar com Jax sem arma na mão. Ela mencionou que havia uma segunda cova cavada, para Matias.
 - Jax chegou à bodega sem ser visto (Furtividade 14). Ressonância com a Viúva Branca (Dália Veloso, A Morte): Jax é o Ballatro do Enforcado. Ela disse que o Delegado Queiroga morre antes do pôr do sol e que o cartaz foi assinado por Queiroga, mas 'quem assina não é quem paga'.
 - Na bodega: Dália não respondeu se anda acompanhada; disse que não enxerga a data da morte de Jax e que isso a incomoda. No terceiro canto do galo, o urubu pousou no telhado da bodega (a proteção da pena queimada acabou).
+- Jax atirou no urubu (carcaça se desfez em cinza): o Cobrador disse que a dívida de Rosa foi 'comprada por outro' e prometeu mostrar a cara 'na sexta, no poço'. Chamou Dália de 'Viúva'. A volante está chegando à bodega. Dália vai acompanhar Jax por ora (a morte dela vai à Delegacia).
