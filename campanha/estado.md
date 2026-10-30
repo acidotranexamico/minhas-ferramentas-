@@ -3,7 +3,7 @@
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
 - **Local:** terreno dos fundos da Delegacia, ao lado da porta dos fundos, com o curral em chamas. Delegado Queiroga na soleira com um facão.
 - **PV:** 6/12 · **XP:** 3/5 · **Dívida:** 0
-- **Equipamento:** (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** Pão de Alho recuperado, mas desmontado (precisa de uma ação para remontar), 18 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -18,6 +18,8 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Amarrar o Delegado com ajuda de Matias (Força com vantagem, CD 12): 10, falhou por 2, 'sim, mas': amarrado, mas frouxo e em pouco tempo.
+- Pegar o Pão de Alho e as cartucheiras (Agilidade, CD 12): 15, sucesso.
 - Tiro no soldado novo (Tiro, CD 10): 10, acertou, 8 de dano. O soldado morreu.
 - Tiro no joelho do Delegado (Tiro, CD 13): 8, errou. Delegado e soldado também erraram.
 - Levantar e se posicionar ao lado da porta (Furtividade, CD 12): 10, falhou por 2, 'sim, mas': posicionou-se, mas o Delegado o viu na luz do fogo.
@@ -63,3 +65,4 @@
 - COMBATE: Delegado Queiroga (17/20 PV, Maldição: não sente dor) contra Jax. Ele acertou um golpe de facão em Jax (3 de dano). O soldado da frente está dando a volta pela lateral. Matias está abrindo a cela com a faca.
 - Matias saiu da cela e agarrou o Delegado por trás, prendendo o braço do facão. Jax tem vantagem no próximo ataque contra o Delegado. O soldado novo está no canto da casa com o fuzil apontado.
 - Jax matou o soldado novo, Zeca (17 anos), com um tiro na cabeça. Recusou atirar no Delegado preso por Matias ('não atiro em gente nessa posição'). Agora é procurado também por homicídio. A volante principal está chegando à rua da Delegacia.
+- Jax e Matias amarraram o Delegado (nó frouxo, ele se solta em uns minutos). Jax pegou o Pão de Alho em pedaços e as cartucheiras. A volante (cerca de 5 soldados) chegou à frente da Delegacia e arrombando a porta. O Delegado gritou que Jax está atrás da casa.
