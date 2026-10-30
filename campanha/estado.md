@@ -3,7 +3,7 @@
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
 - **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
-- **Local:** bodega de Santa Luzia, madrugada, diante da Viúva Branca.
+- **Local:** rua da igreja de Santa Luzia, entre as casas, com a Viúva Branca. Amanhecendo.
 - **PV:** 8/12 · **XP:** 4/5 · **Dívida:** 2
 - **Equipamento:** Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
@@ -82,3 +82,4 @@
 - Jax chegou à bodega sem ser visto (Furtividade 14). Ressonância com a Viúva Branca (Dália Veloso, A Morte): Jax é o Ballatro do Enforcado. Ela disse que o Delegado Queiroga morre antes do pôr do sol e que o cartaz foi assinado por Queiroga, mas 'quem assina não é quem paga'.
 - Na bodega: Dália não respondeu se anda acompanhada; disse que não enxerga a data da morte de Jax e que isso a incomoda. No terceiro canto do galo, o urubu pousou no telhado da bodega (a proteção da pena queimada acabou).
 - Jax atirou no urubu (carcaça se desfez em cinza): o Cobrador disse que a dívida de Rosa foi 'comprada por outro' e prometeu mostrar a cara 'na sexta, no poço'. Chamou Dália de 'Viúva'. A volante está chegando à bodega. Dália vai acompanhar Jax por ora (a morte dela vai à Delegacia).
+- Jax e Dália fugiram pelos fundos da bodega até a rua da igreja (Furtividade 19, sucesso). Jax pediu que ela o ensine 'os truques'; ela respondeu que ensinar é pagar, e cobrou uma resposta antes. A volante procura na bodega.
