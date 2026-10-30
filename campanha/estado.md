@@ -5,7 +5,7 @@
 - **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
 - **Local:** Poço Velho (ponta oeste de Santa Luzia), com a mão na tampa. Dália guarda a cerca. O Homem do Chapéu Cinza chegou na rua.
 - **PV:** 3/12 · **XP:** 4/5 · **Dívida:** 3
-- **Equipamento:** SEM O CHAPÉU (caiu no beco, ao lado do soldado desacordado), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** chapéu recuperado por Dália (Jax não conseguiu pegar: Agilidade 3, falha, 1 natural), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -92,3 +92,4 @@
 - Fuga do Poço (Agilidade com desvantagem pela perna, CD 15): 8, falhou por 7, 'não, e…'. O Homem do Chapéu Cinza distorceu a percepção da rua: Jax e Dália correm sem sair do lugar e ele chegou a dois passos. A bala de Dália parou no ar. Jax está encurralado: pode usar Cabeça para Baixo (1x por sessão).
 - O Homem do Chapéu Cinza escreveu na lama: ROSA/BOI riscados, LIVRES, 'SEXTA. PÔR DO SOL.' e 'ELES AINDA ESTÃO ATRÁS DE VOCÊ. EU SOU SÓ A OFERTA.' Ele sumiu. A parede invisível caiu.
 - Jax usou o tiro como Estouro (Mente 19, sucesso pleno): os 5 soldados da volante (incluindo o sargento) falharam no teste e ficaram atordoados por 2 rodadas. Dívida +1 (agora 3). Cabeça para Baixo NÃO foi gasta (não houve falha para virar). Nariz sangrando, desvantagem no próximo teste físico. O soldado que atirou nele leva o chapéu de Jax no cinto.
+- Dália pegou o chapéu do cinto do soldado mais novo (primo do Zeca) e devolveu a Jax. O rapaz leu o nome do Zeca nos lábios de Jax e chorou, sem poder se mover.
