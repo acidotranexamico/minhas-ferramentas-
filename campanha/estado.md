@@ -1,7 +1,7 @@
 # Estado atual
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
-- **Local:** cemitério de Santa Luzia, escondido entre túmulos com Matias. A volante procura com lampiões.
+- **Local:** dentro de uma cova aberta no cemitério de Santa Luzia (a cova cavada para 'o forasteiro'). Matias foi cercado pela volante a poucos passos.
 - **PV:** 6/12 · **XP:** 4/5 · **Dívida:** 2
 - **Equipamento:** Pão de Alho recuperado, mas desmontado (precisa de uma ação para remontar), 18 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Sair do cemitério guiando Matias pelo som (Furtividade, CD 15; vantagem pela audição e desvantagem pela náusea se anulam): 6, falhou por 9, 'não, e…': Jax caiu na cova aberta e Matias ficou exposto e foi cercado.
 - Fugir pela fumaça do curral (Furtividade, CD 12): 8, falhou por 4, 'não, e…': a náusea derrubou Jax, Matias o arrastou, e os dois ficaram encurralados no cemitério.
 - Amarrar o Delegado com ajuda de Matias (Força com vantagem, CD 12): 10, falhou por 2, 'sim, mas': amarrado, mas frouxo e em pouco tempo.
 - Pegar o Pão de Alho e as cartucheiras (Agilidade, CD 12): 15, sucesso.
@@ -69,3 +70,4 @@
 - Jax e Matias amarraram o Delegado (nó frouxo, ele se solta em uns minutos). Jax pegou o Pão de Alho em pedaços e as cartucheiras. A volante (cerca de 5 soldados) chegou à frente da Delegacia e arrombando a porta. O Delegado gritou que Jax está atrás da casa.
 - DESPERTAR: Jax despertou o poder Eco do Poço (Maldição, manipulação de ondas sonoras). Num surto descontrolado, o cinto que prendia o Delegado vibrou e decepou as duas mãos dele. O Delegado não gritou: olhou para os tocos em silêncio. Dívida +2 (pacto novo, nunca assinado).
 - +1 XP por derrotar o Delegado (desafio difícil).
+- Matias foi cercado por seis soldados e disse que o forasteiro morreu no fogo, para proteger Jax. A volante não sabe que Jax está na cova. Náusea consumida.
