@@ -14,6 +14,17 @@ começo de toda sessão** e segue o que está aqui.
 - **Turnos mais curtos.** Mantenha o clima com menos texto.
 - **Evite conveniências.** Aliados e saídas surgem de algo já estabelecido no mundo, não do nada.
 
+## Diálogos (regra do jogador, Sessão 2)
+- **Falas curtas.** Nada de NPC despejando informação. Uma ou duas frases por vez; em geral, no
+  máximo três falas seguidas de um mesmo NPC antes de o jogador poder agir.
+- **Investigar é conversar.** NPCs podem **não responder** à pergunta. A resposta vem quando o
+  jogador toca em outro assunto, observa algo ou ganha confiança. A informação sai **de lado**,
+  em reações, silêncios, gestos, mudanças de assunto e objetos na cena.
+- **Uma informação nova por troca, no máximo.** Pergunta direta nem sempre rende resposta direta.
+- **Mostre, não conte.** Prefira o NPC reagir (desviar o olhar, mexer na arma, mentir mal) a
+  explicar. O jogador tira as conclusões.
+- **Deixe silêncio na cena.** Termine o turno com uma ação do NPC ou um detalhe, não com um resumo.
+
 ## Narração do jogador e resultado dos dados
 - O jogador descreve a ação já com o resultado que **deseja** (ele não sabe o que o dado vai dar).
 - O mestre trata essa descrição como **intenção**, rola os dados e **ajusta o resultado** à
