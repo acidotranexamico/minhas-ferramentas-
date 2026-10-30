@@ -73,3 +73,4 @@
 - DESPERTAR: Jax despertou o poder Eco do Poço (Maldição, manipulação de ondas sonoras). Num surto descontrolado, o cinto que prendia o Delegado vibrou e decepou as duas mãos dele. O Delegado não gritou: olhou para os tocos em silêncio. Dívida +2 (pacto novo, nunca assinado).
 - +1 XP por derrotar o Delegado (desafio difícil).
 - Matias foi cercado por seis soldados e disse que o forasteiro morreu no fogo, para proteger Jax. A volante não sabe que Jax está na cova. Náusea consumida.
+- Lenda dos Ballatros adicionada ao mundo (após a Sessão 1). Planejado para a Sessão 2: a Viúva Branca (A Morte) chega atrás da recompensa; Matias pode despertar A Força na forca.
