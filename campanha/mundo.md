@@ -61,6 +61,13 @@ mancha verde: a **Fazenda Boa Esperança**, onde ainda chove toda sexta-feira à
 4. **Irmandade das Almas (secreta).** Rezadeiras, um padre e ex-pistoleiros que caçam
    pactuados e queimam contratos. Poucos, perseguidos e desconfiados.
 
+## Fatos estabelecidos em jogo (Sessão 1)
+- O Poço Velho foi lacrado em 1890 e o lacre está quebrado por dentro. Há uma voz de menina no fundo.
+- Os pactos podem ser iniciados sem consentimento: basta o sangue no lugar certo. O contrato fica
+  pendente até ser assinado.
+- O Delegado Queiroga perdeu as duas mãos. O soldado Zeca (17 anos) morreu.
+- O povo de Santa Luzia sentiu o cheiro de terra molhada pela primeira vez em sete anos.
+
 ---
 
 ## Segredos do Mestre
@@ -94,3 +101,11 @@ ou quando o jogador ignora as mortes. Com 8 segmentos, Teodoro ascende.
    o mapa dos pactos.
 3. Todos os contratos do vale estão escritos no mesmo papel, com a marca d'água da
    Fazenda Boa Esperança, e guardados num cartório subterrâneo sob a capela da fazenda.
+
+### Notas da Sessão 1
+- A voz no Poço Velho é **Celeste**. Ela provou o sangue de Jax, e o poder dele (o som) vem dela:
+  Celeste canta, e o canto é a única coisa que o pai não conseguiu tomar. Isso torna Jax uma chave
+  contra Teodoro e, ao mesmo tempo, uma presa valiosa para ele.
+- O Chapéu Cinza não pretendia que Jax despertasse; queria só um culpado vivo. O despertar vai
+  chamar a atenção de Teodoro.
+- O Relógio da Grande Cobrança continua em 3/8. O enforcamento de Matias, se acontecer, avança 1.
