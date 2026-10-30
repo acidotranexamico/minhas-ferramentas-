@@ -189,3 +189,6 @@ história pedir, um de cada vez.
   segmento inteiro** do relógio da Grande Cobrança. Ele caça cartados em silêncio, e Jax acabou de
   se tornar o mais interessante do vale.
 - O Chapéu Cinza armou para Jax sem saber que ele era cartado. Quando o Diabo souber, a caçada muda.
+
+### Contagem oculta: Juros do Cobrador
+- **Juros: 1** (Sessão 2: Jax usou sangue derramado como moeda num contrato improvisado; o Cobrador ouviu e anotou). Cada Juros vira +1 Dívida real quando o Cobrador achar conveniente (por exemplo, no encontro no Poço). O jogador não sabe o número.
