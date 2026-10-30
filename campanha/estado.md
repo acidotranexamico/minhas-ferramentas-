@@ -3,9 +3,9 @@
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
 - **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
-- **Local:** beco a oeste da igreja de Santa Luzia, com a Viúva Branca; a volante (4 soldados) está entrando atrás deles.
+- **Local:** rua oeste de Santa Luzia, do outro lado do muro, com a Viúva Branca; o Poço Velho a cem passos.
 - **PV:** 3/12 · **XP:** 4/5 · **Dívida:** 2
-- **Equipamento:** Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** SEM O CHAPÉU (caiu no beco, ao lado do soldado desacordado), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -87,3 +87,4 @@
 - Dália desarmou três soldados a tiros (sem matar) a pedido de Jax; o quarto atirou e acertou a coxa de Jax (3 de dano). Jax está no beco, ferido, com a volante (3 desarmados, 1 armado) a 15 passos.
 - Jax tentou o 'contrato de sangue' (usar o sangue derramado em vez de Dívida): Mente 2, falha total. A ressonância voltou contra ele (2 de dano, ouvidos sangrando, surdez por esta cena). Dália derrubou o último soldado com a coronha. A Dívida de Jax continua em 2.
 - Mecânica nova (provisória): Sangue-contrato. Com sangue próprio derramado na cena, Jax pode usar o poder sem +1 Dívida, mas o Cobrador ouve (ver Segredos do Mestre).
+- Jax passou o muro (Agilidade 1 natural): escorregou e perdeu o chapéu com a ferradura de prata no beco; Dália o puxou pela gola. Jax está surdo nesta cena, lendo lábios.
