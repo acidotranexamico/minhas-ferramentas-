@@ -2,7 +2,7 @@
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
 - **Local:** sacristia da igreja de Santa Luzia, com o Padre Inácio e Rosa Preta.
-- **PV:** 12/12 · **XP:** 2/5 · **Dívida:** 0
+- **PV:** 12/12 · **XP:** 3/5 · **Dívida:** 0
 - **Equipamento:** faca de bota, carabina Winchester do soldado (1d10, duas mãos) com 6 cartuchos, gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
@@ -43,3 +43,6 @@
 - Jax desmaiou o soldado da guarda (o rapaz que usou de escudo) sem matá-lo e o escondeu atrás da lenha. Ele deve acordar em cerca de uma hora.
 - Na sacristia, Padre Inácio e Rosa Preta (machucada, escondida lá desde a manhã).
 - Rosa Preta contou: é viúva de Tomé, que fez um pacto de Maldição e virou corpo seco em 1892. A dívida passou para ela e o Homem do Chapéu Cinza a perdoou em troca de servir cachaça temperada a quem ele apontasse (11 pessoas em 4 anos, os 'sumidos'). Ontem ele apontou Jax, e ela usou meia dose. Ela viu o Chapéu Cinza carregar Jax na direção do Poço Velho e voltar antes do amanhecer. O Queiroga bateu nela de manhã. Ela esconde o que viu no Poço e só conta em troca de uma promessa: tirá-la do Arrebol viva.
+- Jax jurou matar o Homem do Chapéu Cinza e desfazer a dívida injusta, sem prometer tirar Rosa do Arrebol. (+1 XP por interpretar o laço com custo emocional.)
+- Rosa contou o que viu no Poço Velho: o lacre de ferro e cruzes quebrado, o Chapéu Cinza ajoelhado falando com o fundo ('senhorita'), uma voz de menina cantando uma cantiga de chuva e conhecendo o nome de Jax, e uma gota do sangue de Jax pingada no poço. Rosa pediu (sem condição) que Jax a tire do Arrebol se sobreviver.
+- O guarda inconsciente acorda em cerca de uma hora.
