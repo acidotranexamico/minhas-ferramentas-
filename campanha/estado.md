@@ -13,7 +13,10 @@
 - A Forca (visível): [□□□□] Quando encher, o alçapão abre.
 
 ## Ajuste dinâmico (últimos desafios)
-- (nenhum ainda)
+- Escapar das cordas (Furtividade, CD 12): 20 natural, sucesso excepcional.
 
 ## Flags
 - Jax foi visto ao lado de um corpo seco com o revólver disparado. (Armação? De quem?)
+
+- Mãos de Jax estão LIVRES (ninguém percebeu). A corda do pescoço continua.
+- O Homem do Chapéu Cinza notou Jax e o cumprimentou. A sombra dele aponta para o lado errado.
