@@ -29,3 +29,5 @@
 - Cena atual: Jax embaixo do cadafalso, fora de vista. Delegado (com o .44) e soldado com o chapéu estão ao pé da escada. Mais 2 soldados da volante armados. A carroça-pipa do Coronel está chegando.
 
 - COMBATE em andamento: delegado Queiroga com o .44 de Jax apontado para ele (4 passos). Soldado do chapéu (lacaio) a 1 passo. Mais 2 soldados (lacaios) virando as armas.
+
+- Rodada 1 (combate): Jax acertou a faca no soldado do chapéu (14 vs Def 10, dano 1; soldado 3/4 PV) e o usa de escudo humano. Delegado tirou 1 natural: o .44 falhou (cartucho mole), precisa de uma ação para destravar. Soldados 2 e 3 erraram os tiros.
