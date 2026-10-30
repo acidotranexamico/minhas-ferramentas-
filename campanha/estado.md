@@ -2,9 +2,9 @@
 
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
-- **Sessão:** 2 · **Data no jogo:** manhã de quarta-feira (cerca de 9h), 1897
+- **Sessão:** 2 · **Data no jogo:** manhã de quarta-feira (cerca de 10h), 1897
 - **Local:** serras a leste de Santa Luzia, cercado por bandoleiros do bando do Zé Lua. Dália está ao lado.
-- **PV:** 3/12 · **XP:** 4/5 · **Dívida:** 3
+- **PV:** 9/12 · **XP:** 4/5 · **Dívida:** 3
 - **Equipamento:** chapéu recuperado por Dália (Jax não conseguiu pegar: Agilidade 3, falha, 1 natural), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
@@ -94,3 +94,4 @@
 - Jax usou o tiro como Estouro (Mente 19, sucesso pleno): os 5 soldados da volante (incluindo o sargento) falharam no teste e ficaram atordoados por 2 rodadas. Dívida +1 (agora 3). Cabeça para Baixo NÃO foi gasta (não houve falha para virar). Nariz sangrando, desvantagem no próximo teste físico. O soldado que atirou nele leva o chapéu de Jax no cinto.
 - Dália pegou o chapéu do cinto do soldado mais novo (primo do Zeca) e devolveu a Jax. O rapaz leu o nome do Zeca nos lábios de Jax e chorou, sem poder se mover.
 - Viagem às serras (Mente 6, falhou por 6, 'não, e…'): uma ilusão do bando (Zé Lua) fez Jax e Dália andarem em círculos por duas horas. Faltam cerca de 3 horas para o meio-dia. Os bandoleiros os encontraram e apontaram as armas. Conhecem Dália como caçadora que já matou gente do bando.
+- Zé Lua (invisível, no encosto da cadeira) aceitou ajudar a libertar Matias: deu 1 hora de descanso a Jax (PV 3 -> 9; audição de Jax voltou, com o zumbido). Faltam cerca de 2 horas para o meio-dia. Zé Lua cedeu 12 homens. Matias tem duas filhas no acampamento (a mais velha ~10 anos). Zé Lua perguntou pelo Delegado e Jax disse que cortou as mãos dele.
