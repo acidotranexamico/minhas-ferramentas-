@@ -17,6 +17,7 @@
 - Emboscada ao soldado: falhou por 5 ("não, e…").
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
+- Esconder-se e espiar a poeira (Furtividade, CD 12): 9, falhou por 3 ('sim, mas'): viu quem era, mas o cavalo o denunciou.
 
 ## Flags
 - Jax confessou publicamente o roubo do trem. Parte da vila murmura que ele tem razão sobre os ricos.
@@ -27,3 +28,5 @@
 - Mistério pendente: o que aconteceu na noite anterior? Quem armou o corpo seco do vaqueiro Benedito?
 - O urubu (o Cobrador) falou com Jax pela primeira vez, chamou-o pelo nome completo e disse que ele já está devendo. Ofereceu um pacto, sem pressa, em qualquer poço seco.
 - Jax segue a cavalo para o norte, atrás de uma vila vizinha.
+- Jax guardou a pena preta do urubu (morna, com sangue seco na ponta).
+- Na estrada, Padre Inácio (a mula) descobriu Jax. Está sozinho, com água e ataduras.
