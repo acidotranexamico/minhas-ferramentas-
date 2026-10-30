@@ -1,14 +1,14 @@
 # Estado atual
 
-- **Sessão:** 1 · **Data no jogo:** terça-feira, meio da manhã, 1897
-- **Local:** estrada de terra que sai de Santa Luzia do Pó, na caatinga, a cavalo
+- **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
+- **Local:** moita seca a meio quilômetro de Santa Luzia do Pó, com o tordilho
 - **PV:** 12/12 · **XP:** 2/5 · **Dívida:** 0
 - **Equipamento:** faca de bota, gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
 - A Grande Cobrança (oculto): [■■■□□□□□]
-- A Caçada (visível): [■■□□] A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
+- A Caçada (visível): [■□□□] A volante foi para o norte, achando que Jax fugiu para lá. Ainda há soldados na vila. A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
 
 ## Ajuste dinâmico (últimos desafios)
 - Escapar das cordas: 20 natural.
@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Esconder-se da volante (Furtividade, CD 12): 12, sucesso.
 - Esconder-se e espiar a poeira (Furtividade, CD 12): 9, falhou por 3 ('sim, mas'): viu quem era, mas o cavalo o denunciou.
 
 ## Flags
@@ -34,3 +35,5 @@
 - Padre Inácio tratou o ferimento de Jax (PV 12/12) e contou: memória apagada à força é obra de pactuado de grau Demônio; corpos secos são devedores cobrados pelo Cobrador; a pena do urubu é uma marca que o Cobrador usa para achar Jax. Indicou a vila de Cruz das Almas (6h ao norte) e a rezadeira Dona Quitéria, da Irmandade.
 - Decisão pendente: queimar ou guardar a pena.
 - Padre Inácio contou mais: a pena leva o sangue do último devedor cobrado (provavelmente o vaqueiro Benedito). O Delegado tem uma Maldição (não sente dor). Rosa Preta está com medo e deve alguma coisa. Zé Lua e o bando estão nas serras ao leste. O padre nunca conseguiu benzer a água das carroças-pipa. Combinado: sinal de lamparina na torre da igreja à noite se for seguro voltar, entrada pela porta dos fundos da sacristia (três batidas).
+- Jax queimou a pena com o Padre Inácio. O Cobrador perdeu o rastro dele até o amanhecer. As cinzas, esfregadas nos cascos do cavalo e nas botas, enganaram o cão da volante.
+- Ao anoitecer, o trem das terças apitou na Estação. A lamparina da torre da igreja está acesa.
