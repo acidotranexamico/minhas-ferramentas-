@@ -3,7 +3,7 @@
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
 - **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
-- **Local:** mato fora do muro leste do cemitério de Santa Luzia, sem ser visto.
+- **Local:** bodega de Santa Luzia, madrugada, diante da Viúva Branca.
 - **PV:** 8/12 · **XP:** 4/5 · **Dívida:** 2
 - **Equipamento:** Pão de Alho remontado e carregado (6 tiros), 17 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
@@ -79,3 +79,4 @@
 - Jax remontou o Pão de Alho com cuidado (Agilidade 11 vs 12, 'sim, mas'): um clique metálico foi ouvido pela recém-chegada, que parou e virou o rosto para o cemitério. Ela pregou um cartaz de recompensa na forca (300 mil-réis, vivo ou morto) e tem um coração muito lento.
 - Jax saiu da cova (Mente 16, Furtividade 12). A caçadora de recompensas (Dália Veloso, a Viúva Branca) convenceu os dois guardas a abrir o portão e caminha para a cova com eles atrás, com lampião. Ela sabe o nome completo de Jax e o chamou de 'Jax'.
 - Jax saiu do cemitério pelo caminho longo (Furtividade 21 vs CD 14, sucesso pleno). Ouviu a Viúva mandar os guardas chamarem o sargento e falar sozinha para a cova: 'Eu não vim te matar. Ainda.' Ela vai estar na bodega até o sol nascer e quer conversar com Jax sem arma na mão. Ela mencionou que havia uma segunda cova cavada, para Matias.
+- Jax chegou à bodega sem ser visto (Furtividade 14). Ressonância com a Viúva Branca (Dália Veloso, A Morte): Jax é o Ballatro do Enforcado. Ela disse que o Delegado Queiroga morre antes do pôr do sol e que o cartaz foi assinado por Queiroga, mas 'quem assina não é quem paga'.

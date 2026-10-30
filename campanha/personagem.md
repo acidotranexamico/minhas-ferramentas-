@@ -46,7 +46,16 @@ querer essa assinatura.
 **Marca:** uma espiral escura atrás da orelha esquerda, como a boca de um poço visto de cima.
 **Preço já pago:** Jax nunca mais ouve o silêncio. Há sempre um zumbido baixo no fundo de tudo.
 
-**Dívida: 2/10** (Desvario em 3, 6 e 9)
+## Ballatro: XII, O Enforcado (confirmado na Sessão 2)
+Ao encontrar a Viúva Branca (A Morte), as Marcas dos dois arderam e cada um viu a carta do outro.
+- **Habilidade de Arcano, "Cabeça para Baixo":** uma vez por sessão, quando Jax estiver preso, caindo,
+  encurralado ou a 0 PV, ele vê o mundo invertido e vira a situação: uma falha dele vira "sim, mas…"
+  ou um sucesso de um inimigo vira falha.
+- **Desvarios nos níveis de Dívida 4, 7 e 10** (alma resistente). Cada Desvario é o lado invertido da
+  carta: martírio inútil, sacrifício sem sentido, compulsão por pagar dívidas que não são dele.
+- O Cobrador só cobra a Dívida 12.
+
+**Dívida: 2/10**
 
 ## Motivação
 Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão.

@@ -162,7 +162,7 @@ ou quando o jogador ignora as mortes. Com 8 segmentos, Teodoro ascende.
 | I O Mago | **Homem do Chapéu Cinza** (nome real: Lázaro Ventura) | Vilão | Mexe na memória e na percepção; a sombra mente | Já em cena; revelado como Ballatro no fim do arco I |
 | II A Sacerdotisa | **Dona Quitéria**, rezadeira de Cruz das Almas | Aliada | Lê o que foi escondido: memórias, contratos, cartas | Quando Jax for a Cruz das Almas |
 | VIII A Força (latente) | **Matias "o Boi"** | Aliado | Desperta se se sacrificar por alguém: força que não quebra e acalma feras | Pode despertar na forca, ao meio-dia |
-| XII O Enforcado (latente) | **Jax** | — | "Cabeça para Baixo" (abaixo) | A confirmar em jogo |
+| XII O Enforcado (confirmado, Sessão 2) | **Jax** | — | "Cabeça para Baixo" (abaixo) | A confirmar em jogo |
 | XIII A Morte | **Dália Veloso, a Viúva Branca**, caçadora de recompensas | Neutra/antagonista | Sabe quem vai morrer em breve; não erra o tiro em quem está marcado | Sessão 2: chega atrás da recompensa pelo "forasteiro" |
 | XV O Diabo | **Coronel Teodoro Brandão** | Vilão (e Cobrador) | Acorrenta: quem deve a ele não consegue agir contra ele sem pagar | Revelação no meio da campanha |
 | XVI A Torre | **Tonho Verdugo** (o laço de Jax) | Vilão/rival | Ruína: tudo que ele odeia desaba | Arco II, movido pelo ódio a Jax |
