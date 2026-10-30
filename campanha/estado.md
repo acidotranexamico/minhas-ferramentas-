@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Ler se Rosa mente (Mente com desvantagem por Tonto, CD 12): [18, 7] fica 7, falhou por 5, 'não, e…': não percebeu que ela guarda uma parte, e ela notou a desconfiança.
 - Derrubar o guarda em silêncio (Furtividade, vantagem, CD 15): 16, sucesso.
 - Entrar na vila e chegar à sacristia (Furtividade, CD 12): 7, falhou por 5, 'não, e…': pisou numa lata e um soldado da guarda o viu.
 - Esconder-se da volante (Furtividade, CD 12): 12, sucesso.
@@ -41,3 +42,4 @@
 - Ao anoitecer, o trem das terças apitou na Estação. A lamparina da torre da igreja está acesa.
 - Jax desmaiou o soldado da guarda (o rapaz que usou de escudo) sem matá-lo e o escondeu atrás da lenha. Ele deve acordar em cerca de uma hora.
 - Na sacristia, Padre Inácio e Rosa Preta (machucada, escondida lá desde a manhã).
+- Rosa Preta contou: é viúva de Tomé, que fez um pacto de Maldição e virou corpo seco em 1892. A dívida passou para ela e o Homem do Chapéu Cinza a perdoou em troca de servir cachaça temperada a quem ele apontasse (11 pessoas em 4 anos, os 'sumidos'). Ontem ele apontou Jax, e ela usou meia dose. Ela viu o Chapéu Cinza carregar Jax na direção do Poço Velho e voltar antes do amanhecer. O Queiroga bateu nela de manhã. Ela esconde o que viu no Poço e só conta em troca de uma promessa: tirá-la do Arrebol viva.
