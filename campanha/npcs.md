@@ -24,3 +24,5 @@
   meio-dia de quarta. Está com a faca de bota de Jax (se não a tomaram).
 
 - **Zeca (soldado novo, 17 anos):** MORTO por Jax diante da Delegacia. Tem família na vila.
+
+- **Mãe do Zeca (Dona Cida):** lavadeira, viu Jax e gritou. Quer justiça pelo filho. Jax não fala com ela.
