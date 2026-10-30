@@ -25,3 +25,5 @@
 - O Homem do Chapéu Cinza sumiu. O urubu de olhos humanos ainda acompanha Jax pelo céu.
 - O Delegado Queiroga está com o revólver .44 de Jax.
 - Mistério pendente: o que aconteceu na noite anterior? Quem armou o corpo seco do vaqueiro Benedito?
+- O urubu (o Cobrador) falou com Jax pela primeira vez, chamou-o pelo nome completo e disse que ele já está devendo. Ofereceu um pacto, sem pressa, em qualquer poço seco.
+- Jax segue a cavalo para o norte, atrás de uma vila vizinha.

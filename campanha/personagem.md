@@ -35,7 +35,8 @@ Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão
 caçá-lo. (Ajustável pelo jogador.)
 
 ## Equipamento
-- Revólver Smith & Wesson calibre .44 (1d8) e 18 cartuchos
+- Revólver "Pão de Alho" (Smith & Wesson .44, 1d8), trocado por um pão de alho com um indígena. **Perdido: está com o Delegado Queiroga.**
+- 18 cartuchos (perdidos junto com o revólver)
 - Faca de bota (1d6)
 - Gibão de couro (armadura leve)
 - Chapéu com a ferradura de prata
