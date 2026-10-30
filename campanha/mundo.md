@@ -61,6 +61,51 @@ mancha verde: a **Fazenda Boa Esperança**, onde ainda chove toda sexta-feira à
 4. **Irmandade das Almas (secreta).** Rezadeiras, um padre e ex-pistoleiros que caçam
    pactuados e queimam contratos. Poucos, perseguidos e desconfiados.
 
+## A Lenda dos Ballatros
+
+### O que o povo conta
+No sertão se canta o cordel **"A Peleja dos Vinte e Dois"**: quando o Cão perdeu uma aposta para
+Nossa Senhora, jogou o próprio baralho no sertão para se vingar. As **22 cartas** (os Arcanos
+Maiores do tarô) caíram em gente viva. Quem foi "cartado" virou **Ballatro**: alguém com pacto,
+mas com a alma limpa demais para o Cão engolir inteira.
+
+- O povo comum acha que é conversa de cantador e de cartomante.
+- As cartomantes (como Rosa Preta) dizem que **a carta de um Ballatro sai sempre igual**, não
+  importa quantas vezes se embaralhe.
+- A Irmandade das Almas guarda o **Livro dos Arcanos**, com os nomes dos Ballatros conhecidos.
+  A Irmandade se divide: uns acham que os Ballatros são a única arma capaz de **rasgar contratos**;
+  outros acham que são os piores pecadores, porque fizeram pacto e ainda assim brilham.
+- Pistoleiros e jagunços os chamam de **"cartados"**, e um cartado vale mais vivo do que dez
+  homens armados.
+
+### Como alguém vira Ballatro
+1. Precisa ter um **pacto** (de qualquer grau, até um contrato não assinado).
+2. Precisa ter uma **essência de alma mais pura** que a de um pactuado comum, vinda de:
+   **força de vontade extrema**, **presença** fora do comum ou **um sentimento muito forte**
+   (amor, ódio, vingança, culpa, fé, luto).
+3. O Arcano desperta num **momento de emoção extrema**, ligado ao significado da carta.
+
+**Sinais do despertar:** a Marca do pacto ganha o desenho do Arcano; a carta sai sempre igual na
+mão de quem a pessoa encontra; animais e Cobradores sentem o cheiro dela de longe.
+
+### Regras dos Ballatros
+- **Uma carta, um Ballatro.** Cada Arcano tem no máximo um Ballatro vivo. Quando ele morre, a carta
+  procura outra alma. Ninguém herda um Arcano matando o dono.
+- **Habilidade de Arcano:** um poder único, ligado ao significado da carta, além do poder do pacto.
+  Funciona por narrativa e costuma ter uso limitado (uma vez por cena ou por sessão).
+- **Alma resistente:** o Ballatro aguenta mais Dívida antes de enlouquecer. Os Desvarios vêm em
+  **4, 7 e 10** (em vez de 3, 6 e 9), e o Cobrador só cobra com **Dívida 12**.
+- **O Arcano Invertido:** os Desvarios de um Ballatro são sempre o lado sombrio da própria carta
+  (o Enforcado invertido vira martírio inútil; a Força invertida vira brutalidade; e assim por diante).
+- **Presa valiosa:** a alma de um Ballatro vale por cem almas comuns. Cobradores e quem negocia
+  almas caçam os cartados, e alguns Ballatros caçam uns aos outros.
+- **Alinhamento livre:** há Ballatros aliados, neutros, vilões e até Ballatros que viraram
+  **Cobradores**.
+
+### Ressonância entre Ballatros
+Quando dois Ballatros ficam frente a frente pela primeira vez, as Marcas dos dois **ardem** e cada
+um vê, por um instante, a carta do outro. Não dá para esconder um Arcano de outro Ballatro.
+
 ## Fatos estabelecidos em jogo (Sessão 1)
 - O Poço Velho foi lacrado em 1890 e o lacre está quebrado por dentro. Há uma voz de menina no fundo.
 - Os pactos podem ser iniciados sem consentimento: basta o sangue no lugar certo. O contrato fica
@@ -109,3 +154,38 @@ ou quando o jogador ignora as mortes. Com 8 segmentos, Teodoro ascende.
 - O Chapéu Cinza não pretendia que Jax despertasse; queria só um culpado vivo. O despertar vai
   chamar a atenção de Teodoro.
 - O Relógio da Grande Cobrança continua em 3/8. O enforcamento de Matias, se acontecer, avança 1.
+
+### Ballatros do Arrebol (identidades secretas)
+| Arcano | Ballatro | Lado | Habilidade de Arcano | Quando aparece |
+|---|---|---|---|---|
+| 0 O Louco | **Chico Andarilho**, louco das estradas | Neutro | Conhece caminhos que não existem; aparece em qualquer encruzilhada | Sessão 2 ou 3, encontro de estrada |
+| I O Mago | **Homem do Chapéu Cinza** (nome real: Lázaro Ventura) | Vilão | Mexe na memória e na percepção; a sombra mente | Já em cena; revelado como Ballatro no fim do arco I |
+| II A Sacerdotisa | **Dona Quitéria**, rezadeira de Cruz das Almas | Aliada | Lê o que foi escondido: memórias, contratos, cartas | Quando Jax for a Cruz das Almas |
+| VIII A Força (latente) | **Matias "o Boi"** | Aliado | Desperta se se sacrificar por alguém: força que não quebra e acalma feras | Pode despertar na forca, ao meio-dia |
+| XII O Enforcado (latente) | **Jax** | — | "Cabeça para Baixo" (abaixo) | A confirmar em jogo |
+| XIII A Morte | **Dália Veloso, a Viúva Branca**, caçadora de recompensas | Neutra/antagonista | Sabe quem vai morrer em breve; não erra o tiro em quem está marcado | Sessão 2: chega atrás da recompensa pelo "forasteiro" |
+| XV O Diabo | **Coronel Teodoro Brandão** | Vilão (e Cobrador) | Acorrenta: quem deve a ele não consegue agir contra ele sem pagar | Revelação no meio da campanha |
+| XVI A Torre | **Tonho Verdugo** (o laço de Jax) | Vilão/rival | Ruína: tudo que ele odeia desaba | Arco II, movido pelo ódio a Jax |
+| XVII A Estrela | **Celeste**, no fundo do Poço Velho | Aliada (chave) | O canto: traz água, esperança e cura; desfaz a seca | Investigação do Poço |
+| XVIII A Lua | **Zé Lua**, chefe do bando | Neutro | Ilusões e sombra; ninguém o acha se ele não quiser | Fim do arco I, se Jax procurar o bando |
+
+As outras cartas estão sem dono conhecido, mortas ou escondidas. Crie novos Ballatros quando a
+história pedir, um de cada vez.
+
+### Jax e o Enforcado (latente)
+- Rosa tirou o Enforcado para Jax duas vezes. O surto que decepou as mãos do Delegado foi a alma de
+  Ballatro vazando, não o poder de Maldição comum.
+- **Confirmação em jogo:** quando Dona Quitéria ler a Marca, quando Jax encontrar outro Ballatro
+  (ressonância) ou quando ele aceitar pagar por algo que não fez.
+- **Habilidade de Arcano, "Cabeça para Baixo":** uma vez por sessão, quando Jax estiver preso,
+  caindo, encurralado ou prestes a cair a 0 PV, ele vê o mundo invertido e **vira a situação**:
+  transforma uma falha dele em "sim, mas…" ou o sucesso de um inimigo em falha.
+- **Arcano invertido (Desvarios):** martírio inútil, sacrifício sem sentido, compulsão por pagar
+  dívidas que não são dele.
+- Ao confirmar: os Desvarios de Jax passam para 4, 7 e 10.
+
+### O plano do Diabo e os Ballatros
+- Teodoro precisa de mil almas para virar a Seca encarnada. **Cada alma de Ballatro cobrada enche um
+  segmento inteiro** do relógio da Grande Cobrança. Ele caça cartados em silêncio, e Jax acabou de
+  se tornar o mais interessante do vale.
+- O Chapéu Cinza armou para Jax sem saber que ele era cartado. Quando o Diabo souber, a caçada muda.
