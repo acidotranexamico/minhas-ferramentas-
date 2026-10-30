@@ -1,9 +1,9 @@
 # Estado atual
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
-- **Local:** terreno dos fundos da Delegacia, caído a dois passos da porta dos fundos, tonto. O curral e os barris de querosene estão em chamas.
-- **PV:** 9/12 · **XP:** 3/5 · **Dívida:** 0
-- **Equipamento:** (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) com 3 cartuchos (3 usados na bomba de pólvora), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Local:** terreno dos fundos da Delegacia, ao lado da porta dos fundos, com o curral em chamas. Delegado Queiroga na soleira com um facão.
+- **PV:** 6/12 · **XP:** 3/5 · **Dívida:** 0
+- **Equipamento:** (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) com 2 cartuchos (3 usados na bomba, 1 na perna do Delegado), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -18,6 +18,8 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Levantar e se posicionar ao lado da porta (Furtividade, CD 12): 10, falhou por 2, 'sim, mas': posicionou-se, mas o Delegado o viu na luz do fogo.
+- Tiro na perna do Delegado (Tiro, CD 13): 18, acertou, 3 de dano (Delegado 17/20). Ele não sente dor.
 - Voltar à cela e entregar a faca a Matias (Furtividade, CD 12): 13, sucesso.
 - Acender o pavio e correr (Agilidade, CD 12): 1 natural, complicação: o pavio queimou rápido, a bomba explodiu cedo e feriu Jax (3 de dano).
 - Esconder-se do lampião do Delegado e posicionar a bomba (Furtividade, CD 12): 23, sucesso pleno.
@@ -56,3 +58,4 @@
 - Jax tem uma bomba improvisada (pólvora, panos, lenha) pronta, com pavio curto. Estava atrás da Delegacia quando fez barulho: o Delegado vai olhar a janela dos fundos. O preso na cela é Matias 'o Boi', homem do bando do Zé Lua, e viu Jax.
 - A bomba está no curral, colada nos barris de querosene velhos, a uns 15 passos da janela dos fundos. Jax está escondido atrás de um monte de lenha. Ele ouviu o Delegado dizer a Matias que ele vai ser enforcado no lugar do forasteiro e que o Coronel quer a vila calma até sexta-feira, dia da chuva. O Delegado voltou para a mesa.
 - Jax deu a faca de bota a Matias (a 'chave'). A bomba explodiu cedo, o querosene pegou fogo. Jax está caído perto da porta dos fundos, com zumbido no ouvido. O Delegado e o soldado vão sair para o fogo. Toda a vila acordou.
+- COMBATE: Delegado Queiroga (17/20 PV, Maldição: não sente dor) contra Jax. Ele acertou um golpe de facão em Jax (3 de dano). O soldado da frente está dando a volta pela lateral. Matias está abrindo a cela com a faca.
