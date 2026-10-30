@@ -1,8 +1,8 @@
 # Estado atual
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
-- **Local:** terreno dos fundos da Delegacia, ao lado da porta dos fundos, com o curral em chamas. Delegado Queiroga na soleira com um facão.
-- **PV:** 6/12 · **XP:** 3/5 · **Dívida:** 0
+- **Local:** cemitério de Santa Luzia, escondido entre túmulos com Matias. A volante procura com lampiões.
+- **PV:** 6/12 · **XP:** 4/5 · **Dívida:** 2
 - **Equipamento:** Pão de Alho recuperado, mas desmontado (precisa de uma ação para remontar), 18 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Fugir pela fumaça do curral (Furtividade, CD 12): 8, falhou por 4, 'não, e…': a náusea derrubou Jax, Matias o arrastou, e os dois ficaram encurralados no cemitério.
 - Amarrar o Delegado com ajuda de Matias (Força com vantagem, CD 12): 10, falhou por 2, 'sim, mas': amarrado, mas frouxo e em pouco tempo.
 - Pegar o Pão de Alho e as cartucheiras (Agilidade, CD 12): 15, sucesso.
 - Tiro no soldado novo (Tiro, CD 10): 10, acertou, 8 de dano. O soldado morreu.
@@ -66,3 +67,5 @@
 - Matias saiu da cela e agarrou o Delegado por trás, prendendo o braço do facão. Jax tem vantagem no próximo ataque contra o Delegado. O soldado novo está no canto da casa com o fuzil apontado.
 - Jax matou o soldado novo, Zeca (17 anos), com um tiro na cabeça. Recusou atirar no Delegado preso por Matias ('não atiro em gente nessa posição'). Agora é procurado também por homicídio. A volante principal está chegando à rua da Delegacia.
 - Jax e Matias amarraram o Delegado (nó frouxo, ele se solta em uns minutos). Jax pegou o Pão de Alho em pedaços e as cartucheiras. A volante (cerca de 5 soldados) chegou à frente da Delegacia e arrombando a porta. O Delegado gritou que Jax está atrás da casa.
+- DESPERTAR: Jax despertou o poder Eco do Poço (Maldição, manipulação de ondas sonoras). Num surto descontrolado, o cinto que prendia o Delegado vibrou e decepou as duas mãos dele. O Delegado não gritou: olhou para os tocos em silêncio. Dívida +2 (pacto novo, nunca assinado).
+- +1 XP por derrotar o Delegado (desafio difícil).

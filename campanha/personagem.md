@@ -5,7 +5,7 @@ deu errado. Bigode e cavanhaque, magro e de músculos secos, mais rápido que fo
 Chapéu de couro com uma **ferradura de prata virada para baixo**. Desbocado, não leva
 desaforo para casa.
 
-**Nível 1 · XP 0/5 · Modo Equilibrado**
+**Nível 1 · XP 4/5 · Modo Equilibrado**
 
 ## Atributos
 | Força | Agilidade | Mente | Presença |
@@ -24,8 +24,29 @@ desaforo para casa.
 Em duelo ou no início de um combate, se estiver com a arma no coldre, Jax **age primeiro**,
 sem rolar iniciativa. Uma vez por combate, pode **disparar duas vezes** na mesma ação.
 
-## Pacto
-Nenhum. Dívida: 0.
+## Pacto: Eco do Poço (Maldição, grau 1)
+Despertado à força na noite de terça, na Delegacia. O Homem do Chapéu Cinza pingou uma gota do
+sangue de Jax no Poço Velho: foi a entrada de um contrato que **Jax nunca assinou**. O Cobrador vai
+querer essa assinatura.
+
+**Poder:** manipular ondas sonoras. Tudo o que vibra tem uma onda, e Jax pode empurrá-la para os extremos.
+
+- **Livre (sem Dívida):** ouvir conversas através de paredes e a distância; sentir vibrações no chão
+  (difícil surpreendê-lo pelas costas).
+- **Uso intenso (+1 Dívida), escolha um:**
+  - **Ressonância:** fazer vibrar até romper um objeto pequeno ou médio (corda, corrente, fechadura,
+    vidro, cano de arma). Teste de Mente contra a CD da estrutura.
+  - **Calmaria:** amortecer as ondas em volta de uma pessoa. Ela testa Presença contra CD 13 ou fica
+    sonolenta (perde a próxima ação; fora de combate, adormece).
+  - **Estouro:** um grito que acerta quem estiver a até 3 passos: 1d6 de dano e ensurdecidos por 1 rodada.
+- **Custo físico de cada uso intenso:** nariz sangra, náusea (desvantagem no próximo teste físico).
+- **Graus futuros:** Demônio (nível 4+): derrubar paredes, adormecer grupos, rajada sônica.
+  Calamidade (nível 7+): terremoto, voz que desfaz a matéria.
+
+**Marca:** uma espiral escura atrás da orelha esquerda, como a boca de um poço visto de cima.
+**Preço já pago:** Jax nunca mais ouve o silêncio. Há sempre um zumbido baixo no fundo de tudo.
+
+**Dívida: 2/10** (Desvario em 3, 6 e 9)
 
 ## Motivação
 Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão.

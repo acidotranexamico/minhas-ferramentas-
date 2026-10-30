@@ -2,7 +2,7 @@
 
 - **Delegado Afonso Queiroga:** corpulento, com uma cicatriz de queimadura no pescoço.
   Maldição: não sente dor. *Quer:* um enforcamento público para acalmar a vila e agradar
-  quem paga. *Voz:* fala devagar, em tom de sermão. Está com o revólver de Jax.
+  quem paga. *Voz:* fala devagar, em tom de sermão. PERDEU AS DUAS MÃOS para o poder de Jax. Não sente dor, mas vai procurar o Cobrador para ganhar mãos novas e se vingar.
 - **Padre Inácio:** velho e magro, mãos trêmulas. Membro secreto da Irmandade das Almas.
   *Quer:* saber se Jax é pactuado. Não gosta de enforcamentos.
 - **Rosa Preta:** dona do cabaré. Esteve com Jax na noite anterior. *Quer:* proteger o
