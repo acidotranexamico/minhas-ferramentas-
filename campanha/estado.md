@@ -1,14 +1,14 @@
 # Estado atual
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
-- **Local:** beco ao lado da Delegacia de Santa Luzia, no escuro, de olho na janela dos fundos.
-- **PV:** 12/12 · **XP:** 3/5 · **Dívida:** 0
-- **Equipamento:** faca de bota, carabina Winchester do soldado (1d10, duas mãos) com 3 cartuchos (3 usados na bomba de pólvora), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Local:** terreno dos fundos da Delegacia, caído a dois passos da porta dos fundos, tonto. O curral e os barris de querosene estão em chamas.
+- **PV:** 9/12 · **XP:** 3/5 · **Dívida:** 0
+- **Equipamento:** (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) com 3 cartuchos (3 usados na bomba de pólvora), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
 - A Grande Cobrança (oculto): [■■■□□□□□]
-- A Caçada (visível): [■■□□] A volante foi para o norte, achando que Jax fugiu para lá. Ainda há soldados na vila. A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
+- A Caçada (visível): [■■■□] A volante foi para o norte, achando que Jax fugiu para lá. Ainda há soldados na vila. A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
 
 ## Ajuste dinâmico (últimos desafios)
 - Escapar das cordas: 20 natural.
@@ -18,6 +18,8 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Voltar à cela e entregar a faca a Matias (Furtividade, CD 12): 13, sucesso.
+- Acender o pavio e correr (Agilidade, CD 12): 1 natural, complicação: o pavio queimou rápido, a bomba explodiu cedo e feriu Jax (3 de dano).
 - Esconder-se do lampião do Delegado e posicionar a bomba (Furtividade, CD 12): 23, sucesso pleno.
 - Contornar a Delegacia sem ser ouvido (Furtividade, CD 12): 6, falhou por 6, 'não, e…': fez barulho e foi visto pelo preso.
 - Improvisar bomba de pólvora e pano (Mente, CD 12): 12, sucesso.
@@ -53,3 +55,4 @@
 - Jax deu sua palavra a Rosa Preta (tirá-la do Arrebol). Foi à Delegacia sozinho com a Winchester. O Delegado está sozinho no escritório com o Pão de Alho desmontado na mesa; um guarda na porta da frente; uma cela com alguém dentro.
 - Jax tem uma bomba improvisada (pólvora, panos, lenha) pronta, com pavio curto. Estava atrás da Delegacia quando fez barulho: o Delegado vai olhar a janela dos fundos. O preso na cela é Matias 'o Boi', homem do bando do Zé Lua, e viu Jax.
 - A bomba está no curral, colada nos barris de querosene velhos, a uns 15 passos da janela dos fundos. Jax está escondido atrás de um monte de lenha. Ele ouviu o Delegado dizer a Matias que ele vai ser enforcado no lugar do forasteiro e que o Coronel quer a vila calma até sexta-feira, dia da chuva. O Delegado voltou para a mesa.
+- Jax deu a faca de bota a Matias (a 'chave'). A bomba explodiu cedo, o querosene pegou fogo. Jax está caído perto da porta dos fundos, com zumbido no ouvido. O Delegado e o soldado vão sair para o fogo. Toda a vila acordou.
