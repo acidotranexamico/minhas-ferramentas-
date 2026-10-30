@@ -3,12 +3,12 @@
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
 - **Local:** terreno dos fundos da Delegacia, ao lado da porta dos fundos, com o curral em chamas. Delegado Queiroga na soleira com um facão.
 - **PV:** 6/12 · **XP:** 3/5 · **Dívida:** 0
-- **Equipamento:** (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) com 1 cartucho (3 usados na bomba, 2 gastos no Delegado), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
 - A Grande Cobrança (oculto): [■■■□□□□□]
-- A Caçada (visível): [■■■□] A volante foi para o norte, achando que Jax fugiu para lá. Ainda há soldados na vila. A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
+- A Caçada (visível): [■■■■] CHEIO: a volante principal está entrando na rua. A volante foi para o norte, achando que Jax fugiu para lá. Ainda há soldados na vila. A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
 
 ## Ajuste dinâmico (últimos desafios)
 - Escapar das cordas: 20 natural.
@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Tiro no soldado novo (Tiro, CD 10): 10, acertou, 8 de dano. O soldado morreu.
 - Tiro no joelho do Delegado (Tiro, CD 13): 8, errou. Delegado e soldado também erraram.
 - Levantar e se posicionar ao lado da porta (Furtividade, CD 12): 10, falhou por 2, 'sim, mas': posicionou-se, mas o Delegado o viu na luz do fogo.
 - Tiro na perna do Delegado (Tiro, CD 13): 18, acertou, 3 de dano (Delegado 17/20). Ele não sente dor.
@@ -61,3 +62,4 @@
 - Jax deu a faca de bota a Matias (a 'chave'). A bomba explodiu cedo, o querosene pegou fogo. Jax está caído perto da porta dos fundos, com zumbido no ouvido. O Delegado e o soldado vão sair para o fogo. Toda a vila acordou.
 - COMBATE: Delegado Queiroga (17/20 PV, Maldição: não sente dor) contra Jax. Ele acertou um golpe de facão em Jax (3 de dano). O soldado da frente está dando a volta pela lateral. Matias está abrindo a cela com a faca.
 - Matias saiu da cela e agarrou o Delegado por trás, prendendo o braço do facão. Jax tem vantagem no próximo ataque contra o Delegado. O soldado novo está no canto da casa com o fuzil apontado.
+- Jax matou o soldado novo, Zeca (17 anos), com um tiro na cabeça. Recusou atirar no Delegado preso por Matias ('não atiro em gente nessa posição'). Agora é procurado também por homicídio. A volante principal está chegando à rua da Delegacia.
