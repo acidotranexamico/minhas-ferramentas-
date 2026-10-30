@@ -89,3 +89,4 @@
 - Mecânica nova (provisória): Sangue-contrato. Com sangue próprio derramado na cena, Jax pode usar o poder sem +1 Dívida, mas o Cobrador ouve (ver Segredos do Mestre).
 - Jax passou o muro (Agilidade 1 natural): escorregou e perdeu o chapéu com a ferradura de prata no beco; Dália o puxou pela gola. Jax está surdo nesta cena, lendo lábios.
 - No Poço Velho, Jax tentou devolver a vibração (Mente 5, falhou por 5+, 'não, e…'): a voz da menina avisou 'Corre. Ele ouviu' e o Homem do Chapéu Cinza apareceu na rua, caminhando sem pressa. Um menino viu Jax e Dália e foi avisar alguém.
+- Fuga do Poço (Agilidade com desvantagem pela perna, CD 15): 8, falhou por 7, 'não, e…'. O Homem do Chapéu Cinza distorceu a percepção da rua: Jax e Dália correm sem sair do lugar e ele chegou a dois passos. A bala de Dália parou no ar. Jax está encurralado: pode usar Cabeça para Baixo (1x por sessão).
