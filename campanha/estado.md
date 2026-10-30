@@ -1,5 +1,7 @@
 # Estado atual
 
+> Antes de jogar, leia também `combinados.md` (acordos da mesa).
+
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
 - **Local:** dentro de uma cova aberta no cemitério de Santa Luzia (a cova cavada para 'o forasteiro'). Matias foi cercado pela volante a poucos passos.
 - **PV:** 6/12 · **XP:** 4/5 · **Dívida:** 2
