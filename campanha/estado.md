@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Esconder-se do lampião do Delegado e posicionar a bomba (Furtividade, CD 12): 23, sucesso pleno.
 - Contornar a Delegacia sem ser ouvido (Furtividade, CD 12): 6, falhou por 6, 'não, e…': fez barulho e foi visto pelo preso.
 - Improvisar bomba de pólvora e pano (Mente, CD 12): 12, sucesso.
 - Chegar à Delegacia em silêncio (Furtividade, CD 12): 16, sucesso.
@@ -51,3 +52,4 @@
 - O guarda inconsciente acorda em cerca de uma hora.
 - Jax deu sua palavra a Rosa Preta (tirá-la do Arrebol). Foi à Delegacia sozinho com a Winchester. O Delegado está sozinho no escritório com o Pão de Alho desmontado na mesa; um guarda na porta da frente; uma cela com alguém dentro.
 - Jax tem uma bomba improvisada (pólvora, panos, lenha) pronta, com pavio curto. Estava atrás da Delegacia quando fez barulho: o Delegado vai olhar a janela dos fundos. O preso na cela é Matias 'o Boi', homem do bando do Zé Lua, e viu Jax.
+- A bomba está no curral, colada nos barris de querosene velhos, a uns 15 passos da janela dos fundos. Jax está escondido atrás de um monte de lenha. Ele ouviu o Delegado dizer a Matias que ele vai ser enforcado no lugar do forasteiro e que o Coronel quer a vila calma até sexta-feira, dia da chuva. O Delegado voltou para a mesa.
