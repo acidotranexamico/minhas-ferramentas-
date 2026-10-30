@@ -13,3 +13,5 @@
 - **O Urubu:** pousado na viga da forca, com olhos humanos. É o Cobrador observando.
 
 - **Dona Quitéria (Cruz das Almas):** rezadeira da Irmandade. Sabe 'desatar nó de memória'. Ainda não conhecida por Jax pessoalmente.
+
+- **Matias 'o Boi':** bandoleiro grande do bando do Zé Lua, preso na Delegacia. Quer sair vivo e voltar para o bando. Pode oferecer a gratidão do Zé Lua se for libertado.
