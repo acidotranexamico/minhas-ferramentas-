@@ -5,7 +5,7 @@
 - **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
 - **Local:** dentro de uma cova aberta no cemitério de Santa Luzia (a cova cavada para 'o forasteiro'). Matias foi cercado pela volante a poucos passos.
 - **PV:** 8/12 · **XP:** 4/5 · **Dívida:** 2
-- **Equipamento:** Pão de Alho recuperado, mas desmontado (precisa de uma ação para remontar), 17 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** Pão de Alho remontado e carregado (6 tiros), 17 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -76,3 +76,4 @@
 - Lenda dos Ballatros adicionada ao mundo (após a Sessão 1). Planejado para a Sessão 2: a Viúva Branca (A Morte) chega atrás da recompensa; Matias pode despertar A Força na forca.
 - Sessão 2: Jax cauterizou o corte do braço com a pólvora de um cartucho (Mente 10, 'sim, mas'; Força 18, ficou em silêncio). +2 PV. Braço esquerdo rígido: desvantagem em testes de Força com esse braço até um descanso longo. O guarda do portão viu o clarão e achou que era alma penada.
 - Um cavaleiro sozinho, com esporas de prata, chegou à praça de madrugada e parou perto da forca.
+- Jax remontou o Pão de Alho com cuidado (Agilidade 11 vs 12, 'sim, mas'): um clique metálico foi ouvido pela recém-chegada, que parou e virou o rosto para o cemitério. Ela pregou um cartaz de recompensa na forca (300 mil-réis, vivo ou morto) e tem um coração muito lento.
