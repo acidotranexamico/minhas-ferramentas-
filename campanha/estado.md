@@ -1,9 +1,9 @@
 # Estado atual
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
-- **Local:** beco atrás da igreja de Santa Luzia, a seis passos da porta da sacristia. Um soldado da volante de guarda acabou de dar o alto.
+- **Local:** sacristia da igreja de Santa Luzia, com o Padre Inácio e Rosa Preta.
 - **PV:** 12/12 · **XP:** 2/5 · **Dívida:** 0
-- **Equipamento:** faca de bota, gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
+- **Equipamento:** faca de bota, carabina Winchester do soldado (1d10, duas mãos) com 6 cartuchos, gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
 ## Relógios
@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Derrubar o guarda em silêncio (Furtividade, vantagem, CD 15): 16, sucesso.
 - Entrar na vila e chegar à sacristia (Furtividade, CD 12): 7, falhou por 5, 'não, e…': pisou numa lata e um soldado da guarda o viu.
 - Esconder-se da volante (Furtividade, CD 12): 12, sucesso.
 - Esconder-se e espiar a poeira (Furtividade, CD 12): 9, falhou por 3 ('sim, mas'): viu quem era, mas o cavalo o denunciou.
@@ -38,3 +39,5 @@
 - Padre Inácio contou mais: a pena leva o sangue do último devedor cobrado (provavelmente o vaqueiro Benedito). O Delegado tem uma Maldição (não sente dor). Rosa Preta está com medo e deve alguma coisa. Zé Lua e o bando estão nas serras ao leste. O padre nunca conseguiu benzer a água das carroças-pipa. Combinado: sinal de lamparina na torre da igreja à noite se for seguro voltar, entrada pela porta dos fundos da sacristia (três batidas).
 - Jax queimou a pena com o Padre Inácio. O Cobrador perdeu o rastro dele até o amanhecer. As cinzas, esfregadas nos cascos do cavalo e nas botas, enganaram o cão da volante.
 - Ao anoitecer, o trem das terças apitou na Estação. A lamparina da torre da igreja está acesa.
+- Jax desmaiou o soldado da guarda (o rapaz que usou de escudo) sem matá-lo e o escondeu atrás da lenha. Ele deve acordar em cerca de uma hora.
+- Na sacristia, Padre Inácio e Rosa Preta (machucada, escondida lá desde a manhã).
