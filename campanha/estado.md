@@ -1,7 +1,7 @@
 # Estado atual
 
 - **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
-- **Local:** sacristia da igreja de Santa Luzia, com o Padre Inácio e Rosa Preta.
+- **Local:** beco ao lado da Delegacia de Santa Luzia, no escuro, de olho na janela dos fundos.
 - **PV:** 12/12 · **XP:** 3/5 · **Dívida:** 0
 - **Equipamento:** faca de bota, carabina Winchester do soldado (1d10, duas mãos) com 6 cartuchos, gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
@@ -18,6 +18,7 @@
 - Escudo humano e combate: sucesso.
 - Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
 - Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
+- Chegar à Delegacia em silêncio (Furtividade, CD 12): 16, sucesso.
 - Ler se Rosa mente (Mente com desvantagem por Tonto, CD 12): [18, 7] fica 7, falhou por 5, 'não, e…': não percebeu que ela guarda uma parte, e ela notou a desconfiança.
 - Derrubar o guarda em silêncio (Furtividade, vantagem, CD 15): 16, sucesso.
 - Entrar na vila e chegar à sacristia (Furtividade, CD 12): 7, falhou por 5, 'não, e…': pisou numa lata e um soldado da guarda o viu.
@@ -46,3 +47,4 @@
 - Jax jurou matar o Homem do Chapéu Cinza e desfazer a dívida injusta, sem prometer tirar Rosa do Arrebol. (+1 XP por interpretar o laço com custo emocional.)
 - Rosa contou o que viu no Poço Velho: o lacre de ferro e cruzes quebrado, o Chapéu Cinza ajoelhado falando com o fundo ('senhorita'), uma voz de menina cantando uma cantiga de chuva e conhecendo o nome de Jax, e uma gota do sangue de Jax pingada no poço. Rosa pediu (sem condição) que Jax a tire do Arrebol se sobreviver.
 - O guarda inconsciente acorda em cerca de uma hora.
+- Jax deu sua palavra a Rosa Preta (tirá-la do Arrebol). Foi à Delegacia sozinho com a Winchester. O Delegado está sozinho no escritório com o Pão de Alho desmontado na mesa; um guarda na porta da frente; uma cela com alguém dentro.
