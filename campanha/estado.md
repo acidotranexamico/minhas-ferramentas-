@@ -2,7 +2,7 @@
 
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
-- **Sessão:** 1 · **Data no jogo:** terça-feira, anoitecer, 1897
+- **Sessão:** 2 · **Data no jogo:** madrugada de quarta-feira, 1897
 - **Local:** dentro de uma cova aberta no cemitério de Santa Luzia (a cova cavada para 'o forasteiro'). Matias foi cercado pela volante a poucos passos.
 - **PV:** 6/12 · **XP:** 4/5 · **Dívida:** 2
 - **Equipamento:** Pão de Alho recuperado, mas desmontado (precisa de uma ação para remontar), 18 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
