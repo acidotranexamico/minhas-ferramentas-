@@ -33,3 +33,4 @@
 - Na estrada, Padre Inácio (a mula) descobriu Jax. Está sozinho, com água e ataduras.
 - Padre Inácio tratou o ferimento de Jax (PV 12/12) e contou: memória apagada à força é obra de pactuado de grau Demônio; corpos secos são devedores cobrados pelo Cobrador; a pena do urubu é uma marca que o Cobrador usa para achar Jax. Indicou a vila de Cruz das Almas (6h ao norte) e a rezadeira Dona Quitéria, da Irmandade.
 - Decisão pendente: queimar ou guardar a pena.
+- Padre Inácio contou mais: a pena leva o sangue do último devedor cobrado (provavelmente o vaqueiro Benedito). O Delegado tem uma Maldição (não sente dor). Rosa Preta está com medo e deve alguma coisa. Zé Lua e o bando estão nas serras ao leste. O padre nunca conseguiu benzer a água das carroças-pipa. Combinado: sinal de lamparina na torre da igreja à noite se for seguro voltar, entrada pela porta dos fundos da sacristia (três batidas).

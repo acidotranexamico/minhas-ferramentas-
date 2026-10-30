@@ -11,3 +11,5 @@
   igreja. (Servo de Teodoro, grau Demônio. Foi ele quem armou para Jax.)
 - **Coronel Teodoro Brandão:** chega na carroça-pipa no meio da cena. Gentil e paternal.
 - **O Urubu:** pousado na viga da forca, com olhos humanos. É o Cobrador observando.
+
+- **Dona Quitéria (Cruz das Almas):** rezadeira da Irmandade. Sabe 'desatar nó de memória'. Ainda não conhecida por Jax pessoalmente.
