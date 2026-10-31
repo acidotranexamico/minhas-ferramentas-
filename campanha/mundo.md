@@ -167,7 +167,7 @@ ou quando o jogador ignora as mortes. Com 8 segmentos, Teodoro ascende.
 | XV O Diabo | **Coronel Teodoro Brandão** | Vilão (e Cobrador) | Acorrenta: quem deve a ele não consegue agir contra ele sem pagar | Revelação no meio da campanha |
 | XVI A Torre | **Tonho Verdugo** (o laço de Jax) | Vilão/rival | Ruína: tudo que ele odeia desaba | Arco II, movido pelo ódio a Jax |
 | XVII A Estrela | **Celeste**, no fundo do Poço Velho | Aliada (chave) | O canto: traz água, esperança e cura; desfaz a seca | Investigação do Poço |
-| XVIII A Lua | **Zé Lua**, chefe do bando | Neutro | Ilusões e sombra; ninguém o acha se ele não quiser | Fim do arco I, se Jax procurar o bando |
+| XVIII A Lua (revelado na Sessão 2) | **Zé Lua**, chefe do bando | Aliado | Ilusões e sombra; ninguém o acha se ele não quiser | Fim do arco I, se Jax procurar o bando |
 
 As outras cartas estão sem dono conhecido, mortas ou escondidas. Crie novos Ballatros quando a
 história pedir, um de cada vez.
@@ -192,3 +192,6 @@ história pedir, um de cada vez.
 
 ### Contagem oculta: Juros do Cobrador
 - **Juros: 1** (Sessão 2: Jax usou sangue derramado como moeda num contrato improvisado; o Cobrador ouviu e anotou). Cada Juros vira +1 Dívida real quando o Cobrador achar conveniente (por exemplo, no encontro no Poço). O jogador não sabe o número.
+
+### Sessão 2: rebelião
+- Jax iniciou uma rebelião em Santa Luzia junto com o bando do Zé Lua. O Coronel vai reagir. O relógio da Grande Cobrança sobe 1 se houver mortes civis ou se Matias morrer; desce 1 se o povo se levantar e a seca for denunciada.
