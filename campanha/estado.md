@@ -2,7 +2,7 @@
 
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
-- **Sessão:** 2 · **Data no jogo:** manhã de quarta-feira (cerca de 11h), 1897
+- **Sessão:** 2 · **Data no jogo:** manhã de quarta-feira (cerca de 11h30), 1897
 - **Local:** serras a leste de Santa Luzia, cercado por bandoleiros do bando do Zé Lua. Dália está ao lado.
 - **PV:** 9/12 · **XP:** 4/5 · **Dívida:** 3
 - **Equipamento:** chapéu recuperado por Dália (Jax não conseguiu pegar: Agilidade 3, falha, 1 natural), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
@@ -98,3 +98,4 @@
 - Jax propôs tomar a vila e levantar o povo contra os poderosos (discurso, Presença 20 natural). Zé Lua se revelou (visível) e o bando inteiro aderiu. Ressonância Jax/Zé Lua: Marcas arderam e Jax viu o Arcano XVIII, A Lua. Dália avisou que vai haver mais mortes do que ela consegue contar.
 - Plano de ataque: na hora das últimas palavras de Matias, Zé Lua transforma a rua (10 min de ilusão, depois fica cego por um dia), Jax usa o poder, Dália fecha a conta de quem tem data hoje. Dália precisa de um telhado: a igreja. Jax tem vantagem no primeiro teste da operação.
 - Aproximação do bando à vila (Furtividade em grupo, vantagem: 3+4=7 vs CD 14, falhou por 7, 'não, e…'): o sentinela da torre da igreja viu a poeira e tocou o sino. A volante antecipou o enforcamento de Matias: levam-no agora para a praça. Faltam cerca de 40 minutos, não 2 horas. O bando (Jax, Dália, Zé Lua e 12 homens) está numa elevação a 500 passos do cemitério, vendo a vila.
+- Dália chegou ao telhado/torre da igreja (Furtividade 15, sucesso) e rendeu o sentinela. O bando de Jax, pelo cemitério (Furtividade 8, falhou por 6, 'não, e…'), caiu no meio do ENTERRO DO ZECA: uns 20 civis, Dona Cida, o padre Inácio, e 5 soldados em guarda de honra (os atordoados do Poço, inclusive o primo do Zeca). Faltam cerca de 30 minutos para a forca.
