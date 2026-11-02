@@ -55,7 +55,7 @@ Ao encontrar a Viúva Branca (A Morte), as Marcas dos dois arderam e cada um viu
   carta: martírio inútil, sacrifício sem sentido, compulsão por pagar dívidas que não são dele.
 - O Cobrador só cobra a Dívida 12.
 
-**Dívida: 2/10**
+**Dívida: 0/10** (zera a cada descanso longo)
 
 ## Motivação
 Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão.

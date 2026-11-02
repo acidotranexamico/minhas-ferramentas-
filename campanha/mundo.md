@@ -33,6 +33,7 @@ assinado com sangue.
   de loucura (ouve a voz do Cobrador, não suporta água benta, obsessão, alucinações…).
 - Reduzir Dívida exige **pagar o Cobrador**: oferenda, sacrifício, ritual ou favor.
   O preço é sempre narrativo e sempre dói.
+- **Descanso longo zera a Dívida** (os Desvarios já ganhos permanecem).
 - **Dívida 10:** o Cobrador vem cobrar. Sempre há aviso antes, e um último ato de
   resgate ou de recusa é possível.
 
