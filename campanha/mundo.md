@@ -213,3 +213,18 @@ história pedir, um de cada vez.
 - A Fazenda responde: o Coronel chega como benfeitor, oferece água e perdão, e pede "o assassino do
   Zeca". Divide a vila. Rosa é o ponto fraco que ele vai usar.
 - Nenhum Ballatro novo na Sessão 3, salvo se o jogador procurar.
+
+### Notas da Sessão 3 (mestre)
+- Lurdes Veiga (mulher do sargento) não foi cobrada por inteiro: está presa em algum lugar entre o pacto e a cobrança (possivelmente no cartório sob a capela ou no Poço). O risco interrompido indica contrato não fechado. O Chapéu Cinza usa isso para controlar o sargento.
+- O Chapéu Cinza quer Jax VIVO na sexta (ordem de cima). Suspeita que Matias seja a Força.
+- As marcas das mãos pretas no pulso de Jax são um "recibo" do Cobrador: deixam o Cobrador sentir Jax de perto (como a pena, mais fraco). Não somam Dívida. Pode ser lido por Dona Quitéria.
+- A água do Coronel é chuva contratada: carrega o canto de Celeste invertido (o pai tomou a chuva dela e a virou do avesso). Beber não amaldiçoa por si, mas é por isso que o Padre não consegue benzê-la. Quem bebe por anos fica mais propenso a pactos (desespero). Pode ser "desvirada" se Celeste cantar sobre ela (arco futuro).
+- O Enforcado está "suspenso fora do tempo": Dália não vê a data dele e, perto dele, as datas dos outros podem mudar de hora (adiantar ou atrasar). Isso pode salvar o sargento se Jax ficar com ele no momento certo, ou apressar a morte.
+- O Padre carrega um caderno de cópia parcial do Livro dos Arcanos (da Irmandade).
+- Sino de alarme (Sessão 3): a Resposta da Fazenda começa. Relógio [■□□□]. Primeiro movimento: carroças de água do Coronel chegando pela estrada do leste, com jagunços e o próprio Coronel como "benfeitor". Os moradores que foram pela estrada voltam junto, bebendo.
+- O "pontinho mudo" é o começo de penhora: a água contratada vai preparando a alma de quem bebe para ser cobrada com mais facilidade (e puxa o desespero que leva a pactos). Cresce com o consumo. Não é um contrato; ainda dá para reverter (o canto de Celeste, água limpa, tempo sem beber).
+- O Chapéu Cinza (o Mago) consegue ABAFAR a ressonância com o poder de percepção, mas só parcialmente cara a cara: a Marca de Jax pinica e a sombra dele tremula. Revelação plena no fim do Arco I.
+- A hora do sargento foi marcada pelo Cobrador/patrão do Chapéu Cinza, não por ele. Ele quer Jax vivo e assinando na sexta; usa o sargento e Lurdes como alavanca. Perto de Jax, a data do sargento pode mudar de hora.
+- Tomé Bezerra foi o Enforcado anterior. Cobrado em 1892 (encheu um segmento inteiro da Grande Cobrança). A carta ficou sem dono até cair em Jax. "Não se toma, só se entrega": a alma do Enforcado só pode ser cobrada se ele se oferecer (por isso o Chapéu Cinza quer Jax vivo e quer que ele aceite "trocar de dono" uma dívida). Tomé se entregou para pagar a dívida de alguém (Rosa?).
+- Tomé assumiu, em 1892, a dívida do Padre Inácio: a Irmandade tentou abrir o Poço Velho (para chegar a Celeste) e o Debaixo cobrou. A cobrança, feita contra uma Calamidade, era enorme. Tomé, o Enforcado, se entregou; a sobra passou a Rosa, e o Chapéu Cinza a explorou. A culpa do Padre explica as mãos trêmulas.
+- Reação da Fazenda: enquanto oferece água à vila, o Coronel manda jagunços "limparem" o acampamento do bando (bandidos não contam para a imagem de benfeitor). Objetivo: capturar ou matar Zé Lua cego e pegar reféns (as filhas de Matias) para pressionar Matias, a Força. Se der certo, a Resposta da Fazenda vai a 3/4.

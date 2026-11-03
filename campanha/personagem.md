@@ -5,19 +5,19 @@ deu errado. Bigode e cavanhaque, magro e de músculos secos, mais rápido que fo
 Chapéu de couro com uma **ferradura de prata virada para baixo**. Desbocado, não leva
 desaforo para casa.
 
-**Nível 2 · XP 2/5 · Modo Equilibrado**
+**Nível 3 · XP 0/5 · Modo Equilibrado**
 
 ## Atributos
 | Força | Agilidade | Mente | Presença |
 |---|---|---|---|
-| +1 | **+3** | 0 | +1 |
+| +1 | **+3** | +1 | +1 |
 
 ## Perícias treinadas (+2)
 - **Tiro:** ataques com armas de fogo ficam em 1d20 + 5.
 - **Furtividade:** 1d20 + 5.
 
 ## Combate
-- **PV:** 16 máximos
+- **PV:** 20 máximos
 - **Defesa:** 14 (10 + Agilidade 3 + gibão de couro leve 1)
 
 ## Traço: Mão Mais Rápida do Sul
@@ -55,7 +55,7 @@ Ao encontrar a Viúva Branca (A Morte), as Marcas dos dois arderam e cada um viu
   carta: martírio inútil, sacrifício sem sentido, compulsão por pagar dívidas que não são dele.
 - O Cobrador só cobra a Dívida 12.
 
-**Usos intensos hoje (Dívida): 2/5** (zera no descanso longo; máximo 5 por dia)
+**Usos intensos hoje (Dívida): 3/5** (zera no descanso longo; máximo 5 por dia)
 **Loucura (permanente): 0** · Desvarios em Loucura 2, 4 e 6 · cada uso a partir do 4º no dia: +1 Loucura
 
 ## Motivação
@@ -66,9 +66,14 @@ Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão
 caçá-lo. (Ajustável pelo jogador.)
 
 ## Equipamento
-- Revólver "Pão de Alho" (Smith & Wesson .44, 1d8), trocado por um pão de alho com um indígena. **Perdido: está com o Delegado Queiroga.**
-- 18 cartuchos (perdidos junto com o revólver)
-- Faca de bota (1d6)
+- Revólver "Pão de Alho" (Smith & Wesson .44, 1d8), trocado por um pão de alho com um indígena. Recuperado na Sessão 1.
+- Winchester .44 (1d8), com cartuchos dados pelo bando do Zé Lua
+- Faca de bota: perdida (ficou com Matias)
+- Carta XVII A Estrela, presente de Rosa Preta
 - Gibão de couro (armadura leve)
 - Chapéu com a ferradura de prata
 - 30 mil-réis
+
+## Histórico de níveis
+- **Nível 2 (Sessão 2):** +1 Agilidade (Defesa 14, Tiro e Furtividade +5).
+- **Nível 3 (Sessão 3):** +1 Mente (de 0 para +1). PV máx 20. Próxima escolha planejada: Intimidação (nível 4, junto da primeira habilidade marcante).
