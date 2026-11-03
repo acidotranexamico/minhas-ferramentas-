@@ -1,6 +1,6 @@
 # NPCs ativos
 
-- **Delegado Afonso Queiroga:** corpulento, com uma cicatriz de queimadura no pescoço.
+- **[MORTO na Sessão 2] Delegado Afonso Queiroga:** corpulento, com uma cicatriz de queimadura no pescoço.
   Maldição: não sente dor. *Quer:* um enforcamento público para acalmar a vila e agradar
   quem paga. *Voz:* fala devagar, em tom de sermão. PERDEU AS DUAS MÃOS para o poder de Jax. Não sente dor, mas vai procurar o Cobrador para ganhar mãos novas e se vingar.
 - **Padre Inácio:** velho e magro, mãos trêmulas. Membro secreto da Irmandade das Almas.
@@ -26,3 +26,15 @@
 - **Zeca (soldado novo, 17 anos):** MORTO por Jax diante da Delegacia. Tem família na vila.
 
 - **Mãe do Zeca (Dona Cida):** lavadeira, viu Jax e gritou. Quer justiça pelo filho. Jax não fala com ela.
+
+- **Dália Veloso, a Viúva Branca (Ballatro da Morte):** caçadora de recompensas, ~35 anos, fio branco
+  no cabelo, aliança preta. Vê a data da morte dos outros, não a de Jax. Neutra: "Isso não é
+  amizade, Enforcado." Leu nos lábios do Chapéu Cinza algo que não contou.
+- **Zé Lua (Ballatro da Lua):** chefe do bando, ~45 anos, tranças grisalhas, olhos claros, colar de
+  dentes de lobo. Ilusões e invisibilidade; depois de uma grande ilusão, fica cego por um dia.
+  Matou o Delegado (vingança pelo irmão, 1891). Aliado.
+- **Matias Ferreira, "o Boi" (Ballatro da Força):** livre. Duas filhas no acampamento do bando.
+  Deve a vida a Jax, e Jax deve a dele a Matias.
+- **Sargento da volante:** bigode grisalho, ferido no peito, rendido. Carregava a lista de nomes.
+- **Primo do Zeca:** soldado jovem, olhos azuis. Baixou a arma no enterro.
+- **Dona Cida:** subiu o primeiro degrau do cadafalso, à frente do povo.

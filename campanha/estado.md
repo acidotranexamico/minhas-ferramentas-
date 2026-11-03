@@ -2,43 +2,23 @@
 
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
-- **Sessão:** 2 · **Data no jogo:** manhã de quarta-feira (cerca de 11h30), 1897
-- **Local:** serras a leste de Santa Luzia, cercado por bandoleiros do bando do Zé Lua. Dália está ao lado.
-- **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Dívida:** 2
-- **Equipamento:** chapéu recuperado por Dália (Jax não conseguiu pegar: Agilidade 3, falha, 1 natural), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
-- **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
+- **Sessão:** 3 (próxima) · **Data no jogo:** quarta-feira, meio-dia, 1897
+- **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
+- **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Dívida:** 2 (zera no próximo descanso longo)
+- **Cabeça para Baixo:** disponível de novo na próxima sessão
+- **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester vazia; chapéu com a
+  ferradura de prata; tordilho. A faca de bota se perdeu.
+- **Aliados presentes:** Matias (Ballatro da Força), Zé Lua (Ballatro da Lua, cego até quinta) e o
+  bando (~12 homens), Dália (Ballatro da Morte, neutra), Padre Inácio, Rosa Preta, Dona Cida e o povo.
 
 ## Relógios
-- A Grande Cobrança (oculto): [■■■□□□□□]
-- A Caçada (visível): [■■■■] CHEIO: a volante principal está entrando na rua. A volante foi para o norte, achando que Jax fugiu para lá. Ainda há soldados na vila. A volante do Delegado vai atrás de Jax. Cada hora parado ou ação barulhenta enche um segmento. Com os quatro cheios, a volante o alcança.
+- A Grande Cobrança (oculto): [■■□□□□□□] (desceu 1: o povo se levantou e a seca foi denunciada)
+- Sexta-feira, pôr do sol: encontro no Poço Velho com o Cobrador e o Chapéu Cinza.
+- A Resposta da Fazenda (visível): [□□□□] três cavaleiros levaram a notícia.
 
-## Ajuste dinâmico (últimos desafios)
-- Escapar das cordas: 20 natural.
-- Discurso na forca: falhou por 3 ("sim, mas").
-- Cair e soltar a corda: sucesso.
-- Emboscada ao soldado: falhou por 5 ("não, e…").
-- Escudo humano e combate: sucesso.
-- Chute, fuga: 20 natural e sucesso. (Cena resolvida.)
-- Lembrar da noite anterior (Mente, CD 15): 1 natural, complicação: sangramento no nariz, tontura (desvantagem no próximo teste de Mente) e um riso do Cobrador na cabeça.
-- Sair do cemitério guiando Matias pelo som (Furtividade, CD 15; vantagem pela audição e desvantagem pela náusea se anulam): 6, falhou por 9, 'não, e…': Jax caiu na cova aberta e Matias ficou exposto e foi cercado.
-- Fugir pela fumaça do curral (Furtividade, CD 12): 8, falhou por 4, 'não, e…': a náusea derrubou Jax, Matias o arrastou, e os dois ficaram encurralados no cemitério.
-- Amarrar o Delegado com ajuda de Matias (Força com vantagem, CD 12): 10, falhou por 2, 'sim, mas': amarrado, mas frouxo e em pouco tempo.
-- Pegar o Pão de Alho e as cartucheiras (Agilidade, CD 12): 15, sucesso.
-- Tiro no soldado novo (Tiro, CD 10): 10, acertou, 8 de dano. O soldado morreu.
-- Tiro no joelho do Delegado (Tiro, CD 13): 8, errou. Delegado e soldado também erraram.
-- Levantar e se posicionar ao lado da porta (Furtividade, CD 12): 10, falhou por 2, 'sim, mas': posicionou-se, mas o Delegado o viu na luz do fogo.
-- Tiro na perna do Delegado (Tiro, CD 13): 18, acertou, 3 de dano (Delegado 17/20). Ele não sente dor.
-- Voltar à cela e entregar a faca a Matias (Furtividade, CD 12): 13, sucesso.
-- Acender o pavio e correr (Agilidade, CD 12): 1 natural, complicação: o pavio queimou rápido, a bomba explodiu cedo e feriu Jax (3 de dano).
-- Esconder-se do lampião do Delegado e posicionar a bomba (Furtividade, CD 12): 23, sucesso pleno.
-- Contornar a Delegacia sem ser ouvido (Furtividade, CD 12): 6, falhou por 6, 'não, e…': fez barulho e foi visto pelo preso.
-- Improvisar bomba de pólvora e pano (Mente, CD 12): 12, sucesso.
-- Chegar à Delegacia em silêncio (Furtividade, CD 12): 16, sucesso.
-- Ler se Rosa mente (Mente com desvantagem por Tonto, CD 12): [18, 7] fica 7, falhou por 5, 'não, e…': não percebeu que ela guarda uma parte, e ela notou a desconfiança.
-- Derrubar o guarda em silêncio (Furtividade, vantagem, CD 15): 16, sucesso.
-- Entrar na vila e chegar à sacristia (Furtividade, CD 12): 7, falhou por 5, 'não, e…': pisou numa lata e um soldado da guarda o viu.
-- Esconder-se da volante (Furtividade, CD 12): 12, sucesso.
-- Esconder-se e espiar a poeira (Furtividade, CD 12): 9, falhou por 3 ('sim, mas'): viu quem era, mas o cavalo o denunciou.
+## Ajuste dinâmico
+- Últimos resultados: sucesso (discurso), sucesso (tiro-trovão), sucesso (tiro na mão).
+  Próximo desafio pode subir um degrau.
 
 ## Flags
 - Jax confessou publicamente o roubo do trem. Parte da vila murmura que ele tem razão sobre os ricos.

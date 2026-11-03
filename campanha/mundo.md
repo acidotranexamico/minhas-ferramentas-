@@ -192,7 +192,15 @@ história pedir, um de cada vez.
 - O Chapéu Cinza armou para Jax sem saber que ele era cartado. Quando o Diabo souber, a caçada muda.
 
 ### Contagem oculta: Juros do Cobrador
-- **Juros: 1** (Sessão 2: Jax usou sangue derramado como moeda num contrato improvisado; o Cobrador ouviu e anotou). Cada Juros vira +1 Dívida real quando o Cobrador achar conveniente (por exemplo, no encontro no Poço). O jogador não sabe o número.
+- **Juros: 1** (ainda não cobrado) (Sessão 2: Jax usou sangue derramado como moeda num contrato improvisado; o Cobrador ouviu e anotou). Cada Juros vira +1 Dívida real quando o Cobrador achar conveniente (por exemplo, no encontro no Poço). O jogador não sabe o número.
 
 ### Sessão 2: rebelião
 - Jax iniciou uma rebelião em Santa Luzia junto com o bando do Zé Lua. O Coronel vai reagir. O relógio da Grande Cobrança sobe 1 se houver mortes civis ou se Matias morrer; desce 1 se o povo se levantar e a seca for denunciada.
+
+### Notas da Sessão 2
+- O Cobrador deu mãos ao Delegado, e elas tinham vontade própria (presente com custo).
+- A lista do sargento foi escrita pelo Chapéu Cinza. Jax e Matias são os dois nomes "em aberto".
+- Teodoro sabe agora, pelos três cavaleiros, que a vila se levantou e que o forasteiro acusou a
+  Fazenda. Reação planejada: chegar como benfeitor (água, comida, perdão), dividir a vila e pedir
+  que entreguem "o assassino do Zeca". Só usar força se a divisão falhar.
+- Jax já suspeita da Fazenda por dedução própria. Manter as pistas indiretas até o nível 4.
