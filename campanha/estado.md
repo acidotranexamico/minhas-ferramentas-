@@ -131,3 +131,4 @@
 - Jax contou a Rosa o recado de Tomé. Rosa chorou pela primeira vez, deixou o chapéu de Tomé sobre a tampa do Poço e cantou a cantiga com a letra errada dele ("Chove, chove, Nossa Senhora", em vez de "chora, chora"). A menina cantou junto, por baixo. Uma única gota caiu do céu limpo sobre o chapéu. Fim de tarde, quarta-feira.
 - Rosa deu a Jax a carta XVII A Estrela ("lembra que tem alguém aqui embaixo que canta") e deixou o chapéu de Tomé sobre a tampa do Poço.
 - GANCHO: Jax sente pela terra 20 a 30 cavaleiros vindos do leste (Fazenda), indo para o NORTE, para as serras, na direção do acampamento do Zé Lua (cego até amanhã; as filhas de Matias estão lá). Pôr do sol se aproximando.
+- Rosa foi descansar sozinha. Matias está na sacristia conversando com o sargento (as filhas: Joana, 10, e Tereza, a pequena). Zé Lua, cego, está na vila. Da vila às serras: ~1h30 a cavalo. Os cavaleiros da Fazenda vão a trote, sem correr.
