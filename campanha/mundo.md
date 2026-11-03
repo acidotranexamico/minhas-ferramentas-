@@ -217,3 +217,4 @@ história pedir, um de cada vez.
 ### Notas da Sessão 3 (mestre)
 - Lurdes Veiga (mulher do sargento) não foi cobrada por inteiro: está presa em algum lugar entre o pacto e a cobrança (possivelmente no cartório sob a capela ou no Poço). O risco interrompido indica contrato não fechado. O Chapéu Cinza usa isso para controlar o sargento.
 - O Chapéu Cinza quer Jax VIVO na sexta (ordem de cima). Suspeita que Matias seja a Força.
+- As marcas das mãos pretas no pulso de Jax são um "recibo" do Cobrador: deixam o Cobrador sentir Jax de perto (como a pena, mais fraco). Não somam Dívida. Pode ser lido por Dona Quitéria.
