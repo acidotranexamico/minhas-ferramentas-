@@ -213,3 +213,7 @@ história pedir, um de cada vez.
 - A Fazenda responde: o Coronel chega como benfeitor, oferece água e perdão, e pede "o assassino do
   Zeca". Divide a vila. Rosa é o ponto fraco que ele vai usar.
 - Nenhum Ballatro novo na Sessão 3, salvo se o jogador procurar.
+
+### Notas da Sessão 3 (mestre)
+- Lurdes Veiga (mulher do sargento) não foi cobrada por inteiro: está presa em algum lugar entre o pacto e a cobrança (possivelmente no cartório sob a capela ou no Poço). O risco interrompido indica contrato não fechado. O Chapéu Cinza usa isso para controlar o sargento.
+- O Chapéu Cinza quer Jax VIVO na sexta (ordem de cima). Suspeita que Matias seja a Força.
