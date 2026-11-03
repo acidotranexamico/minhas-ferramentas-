@@ -95,4 +95,12 @@ começo de toda sessão** e segue o que está aqui.
 - No combate, manter a narração cheia; dados em uma linha discreta.
 - Menos [OOC] no meio da cena.
 - Conferir `estado.md` antes de descrever recursos (munição, PV, objetos já destruídos).
-- Alternar revelações com ação e respiro; evitar muitas revelações seguidas.
+- Dar respiro entre revelações (o jogador gosta delas; não cortar, só espaçar).
+
+## Preferência do jogador (após a Sessão 3)
+- **Diálogo e investigação são o coração do RPG** para o jogador. A Sessão 3 (focada em conversa e
+  investigação, com um clímax de combate) acertou o equilíbrio. A Sessão 2 teve combate demais.
+- Manter esse equilíbrio: a maior parte da sessão em investigação e diálogo com NPCs, e o combate
+  como pico de tensão, não como eixo.
+- Revelações em sequência funcionam bem quando vêm de conversa e de pistas encontradas; não é
+  preciso cortá-las, só dar respiro entre elas.
