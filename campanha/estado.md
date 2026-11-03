@@ -6,7 +6,7 @@
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
 - **PV:** 9/16 · **XP:** 4/5 (Nível 2) · **Usos intensos hoje:** 2/5 (zera no descanso longo) · **Loucura:** 0
 - **Cabeça para Baixo:** disponível de novo na próxima sessão
-- **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester vazia; chapéu com a
+- **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester com 12 cartuchos (do bando); chapéu com a
   ferradura de prata; tordilho. A faca de bota se perdeu.
 - **Aliados presentes:** Matias (Ballatro da Força), Zé Lua (Ballatro da Lua, cego até quinta) e o
   bando (~12 homens), Dália (Ballatro da Morte, neutra), Padre Inácio, Rosa Preta, Dona Cida e o povo.
@@ -136,3 +136,4 @@
 - Jax tentou acalmar o tordilho com uma frequência (Mente 8, "não, e…"): a cantiga invertida saiu junto da garganta dele. O tordilho ficou parado, tremendo; os 8 cavalos do bando entraram em pânico (um homem caiu, perderam ~3 min). Os jagunços ganharam distância. Zé Lua perguntou: "Que música era essa, Enforcado?" Matias ficou olhando, calado.
 - Ajuste dinâmico: últimos resultados 15, 17 (sucessos), 8 (não, e). Não empilhar outra punição na mesma corrida.
 - Trilha das Pedras Pretas guiada pelo ouvido (Agilidade 19 com vantagem, sucesso pleno): chegaram ao acampamento ~20 min antes dos jagunços. O acampamento é uma grota com 4 fogueiras: ~30 pessoas (mulheres, velhos, crianças), 3 guardas, mais Jax, Matias e 8 homens. Joana (filha de Matias) correu para ele. Cerca de 25 jagunços sobem pela estrada a trote. Entrada da grota: um único corredor de pedra estreito, de ~30 passos. Noite.
+- Defesa do acampamento: Dona Benta (velha, cachimbo, líder do acampamento) levou crianças e mães para uma furna no fundo da grota. Combatentes: Matias, 11 homens do bando, 3 mulheres (Dona Benta + 2) e Jax = 16 armas contra ~25 jagunços. Jax recebeu 12 cartuchos .44 para a Winchester (Winchester carregável). Corredor de entrada: 30 passos, largura para 2 cavalos, paredes altas com saliências. Faltam ~15 min.
