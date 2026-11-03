@@ -124,3 +124,4 @@
 - REVELAÇÃO: a dívida que Tomé pagou era do PADRE INÁCIO. Em 1892 a Irmandade tentou abrir o Poço Velho para ver o que havia embaixo; o Padre segurou a corda; deu errado e "alguém tinha que pagar". Tomé se ofereceu e o Padre deixou. Rosa ouviu tudo. A vela se apagou sozinha.
 - O Padre não viu o fundo do Poço. Quem desceu em 1892 foi o irmão Damião (Irmandade de Cruz das Almas): subiu com o cabelo todo branco e disse só "Tem uma criança lá embaixo. E ela tá presa num contrato." Morreu seco na semana seguinte.
 - Rosa saiu da sacristia pela porta dos fundos, com a trouxa, sem dizer nada, depois da confissão do Padre.
+- O Padre: a Irmandade queria desfazer a seca (sabia que era pacto), mas "não sabia quem fez, ainda não sei". Lembrou que o Coronel paga o telhado, o pão e as velas (o coração dele acelerou: medo/dependência). Rosa saiu andando pelo quintal na direção do LESTE (Poço Velho / Fazenda), não para a bodega.
