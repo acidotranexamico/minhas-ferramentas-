@@ -218,3 +218,4 @@ história pedir, um de cada vez.
 - Lurdes Veiga (mulher do sargento) não foi cobrada por inteiro: está presa em algum lugar entre o pacto e a cobrança (possivelmente no cartório sob a capela ou no Poço). O risco interrompido indica contrato não fechado. O Chapéu Cinza usa isso para controlar o sargento.
 - O Chapéu Cinza quer Jax VIVO na sexta (ordem de cima). Suspeita que Matias seja a Força.
 - As marcas das mãos pretas no pulso de Jax são um "recibo" do Cobrador: deixam o Cobrador sentir Jax de perto (como a pena, mais fraco). Não somam Dívida. Pode ser lido por Dona Quitéria.
+- A água do Coronel é chuva contratada: carrega o canto de Celeste invertido (o pai tomou a chuva dela e a virou do avesso). Beber não amaldiçoa por si, mas é por isso que o Padre não consegue benzê-la. Quem bebe por anos fica mais propenso a pactos (desespero). Pode ser "desvirada" se Celeste cantar sobre ela (arco futuro).
