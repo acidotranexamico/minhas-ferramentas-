@@ -222,3 +222,4 @@ história pedir, um de cada vez.
 - O Enforcado está "suspenso fora do tempo": Dália não vê a data dele e, perto dele, as datas dos outros podem mudar de hora (adiantar ou atrasar). Isso pode salvar o sargento se Jax ficar com ele no momento certo, ou apressar a morte.
 - O Padre carrega um caderno de cópia parcial do Livro dos Arcanos (da Irmandade).
 - Sino de alarme (Sessão 3): a Resposta da Fazenda começa. Relógio [■□□□]. Primeiro movimento: carroças de água do Coronel chegando pela estrada do leste, com jagunços e o próprio Coronel como "benfeitor". Os moradores que foram pela estrada voltam junto, bebendo.
+- O "pontinho mudo" é o começo de penhora: a água contratada vai preparando a alma de quem bebe para ser cobrada com mais facilidade (e puxa o desespero que leva a pactos). Cresce com o consumo. Não é um contrato; ainda dá para reverter (o canto de Celeste, água limpa, tempo sem beber).
