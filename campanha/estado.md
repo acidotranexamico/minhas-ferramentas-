@@ -117,3 +117,4 @@
 - +2 XP (Rosa livre, sargento vivo até sexta). XP 4/5.
 - Jax concluiu: o Chapéu Cinza é O MAGO. Disse a Rosa: "você está livre." Rosa: "Livre dele não é livre do Arrebol. Mas é um começo."
 - O Padre Inácio admitiu ser da Irmandade há 30 anos. Tem um caderno com cópia parcial do Livro dos Arcanos (muitos nomes em branco). Página do Mago: nome em branco, anotação "Visto no Arrebol, 1890" (ano em que lacraram o Poço e parou de chover).
+- Jax suspeita que o pacto do Poço envolve o Coronel e que "a conta não fecha". Rosa lembrou: Dona Eulália e os 4 filhos morreram da febre do açude em 1890, todos numa semana (a mesma febre de Lurdes). Padre: o Coronel não deixou ele enterrar; enterrou na própria Fazenda, sem padre e sem missa. (Próximo do segredo 1: covas vazias. Não confirmar o vilão antes do nível 4.)
