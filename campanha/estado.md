@@ -4,7 +4,7 @@
 
 - **Sessão:** 3 (em andamento) · **Data no jogo:** quarta-feira, meio-dia, 1897
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
-- **PV:** 9/16 · **XP:** 4/5 (Nível 2) · **Usos intensos hoje:** 2/5 (zera no descanso longo) · **Loucura:** 0
+- **PV:** 9/16 · **XP:** 4/5 (Nível 2) · **Usos intensos hoje:** 3/5 (zera no descanso longo) · **Loucura:** 0
 - **Cabeça para Baixo:** disponível de novo na próxima sessão
 - **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester com 12 cartuchos (do bando); chapéu com a
   ferradura de prata; tordilho. A faca de bota se perdeu.
@@ -139,3 +139,4 @@
 - Defesa do acampamento: Dona Benta (velha, cachimbo, líder do acampamento) levou crianças e mães para uma furna no fundo da grota. Combatentes: Matias, 11 homens do bando, 3 mulheres (Dona Benta + 2) e Jax = 16 armas contra ~25 jagunços. Jax recebeu 12 cartuchos .44 para a Winchester (Winchester carregável). Corredor de entrada: 30 passos, largura para 2 cavalos, paredes altas com saliências. Faltam ~15 min.
 - EMBOSCADA PRONTA: fogueiras apagadas, 2 tochas iluminando o corredor; todos (e os cavalos) com cera/pano nos ouvidos; 8 atiradores em cada parede do corredor; Jax no fundo, de frente para a entrada. Os ~25 jagunços pararam fora da luz. O líder (voz grossa) exigiu "o Boi e as duas filhas"; "o Coronel garante que ninguém mais se machuca"; está contando até dez. Jax tem vantagem no primeiro teste.
 - O Coronel quer as filhas de Matias como reféns (pressionar a Força).
+- COMBATE NA GROTA: Jax disparou e amplificou o tiro pelo corredor (Mente 9 com vantagem, "sim, mas"; uso intenso 3/5). A cantiga invertida saiu junto. ~12 jagunços derrubados ou atordoados, ~8 de trás só tontos. A 1ª rajada do bando matou 5. Restam ~20 e o líder (grande, chapéu de abas largas, voz grossa) na beira da luz, olhando para Jax. Jax com nariz sangrando e náusea (desvantagem no próximo teste físico). A menina do Poço ficou calada.

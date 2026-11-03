@@ -55,7 +55,7 @@ Ao encontrar a Viúva Branca (A Morte), as Marcas dos dois arderam e cada um viu
   carta: martírio inútil, sacrifício sem sentido, compulsão por pagar dívidas que não são dele.
 - O Cobrador só cobra a Dívida 12.
 
-**Usos intensos hoje (Dívida): 2/5** (zera no descanso longo; máximo 5 por dia)
+**Usos intensos hoje (Dívida): 3/5** (zera no descanso longo; máximo 5 por dia)
 **Loucura (permanente): 0** · Desvarios em Loucura 2, 4 e 6 · cada uso a partir do 4º no dia: +1 Loucura
 
 ## Motivação
