@@ -4,8 +4,8 @@
 
 - **Sessão:** 3 (em andamento) · **Data no jogo:** quarta-feira, meio-dia, 1897
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
-- **PV:** 9/16 · **XP:** 4/5 (Nível 2) · **Usos intensos hoje:** 3/5 (zera no descanso longo) · **Loucura:** 0
-- **Cabeça para Baixo:** disponível de novo na próxima sessão
+- **PV:** 9/16 · **XP:** 0/5 (Nível 3, escolha pendente) · **Usos intensos hoje:** 3/5 (zera no descanso longo) · **Loucura:** 0
+- **Cabeça para Baixo:** GASTA na Sessão 3 (duelo com Severino)
 - **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester com 12 cartuchos (do bando); chapéu com a
   ferradura de prata; tordilho. A faca de bota se perdeu.
 - **Aliados presentes:** Matias (Ballatro da Força), Zé Lua (Ballatro da Lua, cego até quinta) e o
@@ -145,3 +145,5 @@
 - DUELO: Jax aceitou e entrou na luz girando o Pão de Alho e guardando no coldre ("vamos ver se você é isso tudo ou só marra"). Líder: Severino Couro (cabeça raspada, cicatrizes, pele de couro). Um dos 8 jagunços (o de lenço vermelho) planeja atirar à traição (Jax ouve o coração dele acelerar).
 - Disparo duplo: tiro 1 em Severino (24 vs 14, sucesso pleno): acertou a mão direita, o revólver voou; 6 de dano menos 2 da pele de couro = 4 (Severino 17/25). Tiro 2 no lenço vermelho (17, acerta): lacaio caído, o tiro dele foi para o chão. Severino sacou com a esquerda: 20 NATURAL, 8 de dano. PENDENTE: Jax cairia para 1 PV, derrubado. Ele pode usar Cabeça para Baixo (disponível nesta sessão) para transformar o sucesso de Severino em falha.
 - Mecânica: a pele de couro de Severino reduz 2 de cada dano de bala.
+- CABEÇA PARA BAIXO usada: o 20 natural de Severino virou erro (a bala passou raspando). Jax viu o mundo invertido e uma auréola brilhou em volta da cabeça dele, e todos na grota viram. Novo tiro (20 vs 14, sucesso pleno): estourou a mão esquerda/revólver de Severino; 8-2 = 6 de dano (Severino 11/25), desarmado, com as duas mãos arrebentadas. Severino se ajoelhou e se rendeu; os 7 jagunços restantes largaram as armas. Lenço vermelho morto.
+- +1 XP (desafio difícil vencido: emboscada e duelo) => XP 5/5: SOBE PARA O NÍVEL 3 (escolha do jogador pendente: +1 atributo, nova perícia ou melhoria no traço; +4 PV máx => 20).
