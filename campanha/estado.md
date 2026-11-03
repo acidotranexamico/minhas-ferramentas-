@@ -4,7 +4,7 @@
 
 - **Sessão:** 3 (em andamento) · **Data no jogo:** quarta-feira, meio-dia, 1897
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
-- **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Usos intensos hoje:** 2/5 (zera no descanso longo) · **Loucura:** 0
+- **PV:** 9/16 · **XP:** 4/5 (Nível 2) · **Usos intensos hoje:** 2/5 (zera no descanso longo) · **Loucura:** 0
 - **Cabeça para Baixo:** disponível de novo na próxima sessão
 - **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester vazia; chapéu com a
   ferradura de prata; tordilho. A faca de bota se perdeu.
@@ -112,3 +112,6 @@
 - Jax chamou o Chapéu Cinza de "Eremita"; ele desviou: "Carta é coisa de cartomante. Pergunte pra Rosa." A mão dele, sem luva: pálida, lisa, sem linhas na palma. Disse: contrato só se anula com FOGO no ORIGINAL, e o original não está com ele.
 - PROPOSTA: a palavra de Jax de ir ao Poço na sexta, ao pôr do sol, sozinho e vivo, sem bala e sem grito, só para ouvir a oferta inteira (sem precisar assinar). Em troca, a conta do sargento fica para sexta (ele vive até lá) e Lurdes continua viva no "corredor". Dália pode conferir a data. Ele tem um relógio de bolso de prata.
 - Jax negociou (Presença 17 com vantagem vs 14, sucesso): o Chapéu Cinza aceitou libertar ROSA da dívida com ele imediatamente (fim da cachaça temperada). Sobre LURDES: o contrato não é dele, mas o "corredor" é; na sexta, quando Jax pisar no Poço, ela sai viva pela porteira de casa (o contrato continua: vive enquanto o sargento viver). O sargento vive até sexta. Em troca: a PALAVRA de Jax de ir ao Poço sexta ao pôr do sol, sozinho, sem bala e sem grito, para ouvir a oferta inteira. Ele estendeu a mão enluvada. Rosa ouviu. Decisão pendente.
+- ACORDO FECHADO: Jax apertou a mão do Chapéu Cinza ("estarei lá"). No toque, a espiral queimou e Jax viu por meio segundo uma mesa com taça, faca, moeda e bastão, e um oito deitado por cima (o Mago, sem nome). O Chapéu Cinza foi embora pela linha do trem, para o sul. Dália confirmou: a data do sargento mudou para SEXTA, ao pôr do sol. Rosa está livre da dívida com o Chapéu Cinza.
+- PROMESSA: Jax vai ao Poço Velho sexta ao pôr do sol, sozinho, sem bala e sem grito, e ouve a oferta inteira. Lurdes deve sair viva pela porteira de casa quando ele pisar no Poço.
+- +2 XP (Rosa livre, sargento vivo até sexta). XP 4/5.

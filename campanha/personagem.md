@@ -5,7 +5,7 @@ deu errado. Bigode e cavanhaque, magro e de músculos secos, mais rápido que fo
 Chapéu de couro com uma **ferradura de prata virada para baixo**. Desbocado, não leva
 desaforo para casa.
 
-**Nível 2 · XP 2/5 · Modo Equilibrado**
+**Nível 2 · XP 4/5 · Modo Equilibrado**
 
 ## Atributos
 | Força | Agilidade | Mente | Presença |
