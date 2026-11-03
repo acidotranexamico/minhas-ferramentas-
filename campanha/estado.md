@@ -4,7 +4,7 @@
 
 - **Sessão:** 2 · **Data no jogo:** manhã de quarta-feira (cerca de 11h30), 1897
 - **Local:** serras a leste de Santa Luzia, cercado por bandoleiros do bando do Zé Lua. Dália está ao lado.
-- **PV:** 5/12 · **XP:** 4/5 · **Dívida:** 2
+- **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Dívida:** 2
 - **Equipamento:** chapéu recuperado por Dália (Jax não conseguiu pegar: Agilidade 3, falha, 1 natural), Pão de Alho remontado e carregado (6 tiros), 10 cartuchos .44 nas cartucheiras, (faca de bota entregue a Matias), carabina Winchester do soldado (1d10, duas mãos) sem cartuchos (3 usados na bomba, 3 gastos em combate), gibão de couro, chapéu com a ferradura de prata (recuperado), cavalo roubado (tordilho, ainda sem nome), 0 cartuchos (o revólver está com o Delegado).
 - **Situação:** Jax escapou da forca. É fugitivo na vila. Não lembra da noite anterior.
 
@@ -102,3 +102,4 @@
 - [OOC] Novas regras: Dívida zera no descanso longo (o descanso no acampamento do Zé Lua conta como longo: Dívida 3 -> 0, braço esquerdo sem rigidez). O jogador passa a rolar o d20 e informar o resultado entre parênteses.
 - RESGATE NA PRAÇA: Zé Lua criou a ilusão de chuva (10 min). Dália matou dois soldados da torre. O alçapão abriu, mas Matias resistiu na corda (A Força despertando) e Jax cortou metade da corda com um tiro; Matias caiu vivo. Barreira de som falhou (Dívida 1). Jax usou Cabeça para Baixo (gasta nesta sessão) para anular o 20 natural do sargento; levou 4 de outro soldado (PV 5). Atirou no sargento: 7 de dano (sargento 4/11). Pão de Alho: 4 tiros.
 - Matias livre (despertou A Força). Lista do sargento: 11 nomes riscados e, sem risco, 'Jacson Rodrigues Bombardelli' e 'Matias Ferreira', com a letra do Homem do Chapéu Cinza. O Delegado voltou com mãos pretas e secas (presente do Cobrador, com vontade própria). Jax rachou a mão direita dele (1 dano) e, com o último tiro imbuído de som (Mente/Tiro 23, Dívida 2), destruiu a mão esquerda: 12 de dano. Delegado 4/20 PV, sem as duas mãos novas. Pão de Alho vazio.
+- Zé Lua matou o Delegado Queiroga com uma ilusão sussurrada (vingança pelo irmão, enforcado em 1891). A ilusão acabou; Zé Lua está cego por um dia. Jax subiu ao Nível 2 (+1 Agilidade: Defesa 14, Tiro e Furtividade +5, PV máx 16). Jax sobe no cadafalso para falar com o povo.
