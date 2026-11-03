@@ -4,7 +4,7 @@
 
 - **Sessão:** 3 (em andamento) · **Data no jogo:** quarta-feira, meio-dia, 1897
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
-- **PV:** 9/16 · **XP:** 0/5 (Nível 3, escolha pendente) · **Usos intensos hoje:** 3/5 (zera no descanso longo) · **Loucura:** 0
+- **PV:** 9/20 · **XP:** 0/5 (Nível 3) · **Usos intensos hoje:** 3/5 (zera no descanso longo) · **Loucura:** 0
 - **Cabeça para Baixo:** GASTA na Sessão 3 (duelo com Severino)
 - **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester com 12 cartuchos (do bando); chapéu com a
   ferradura de prata; tordilho. A faca de bota se perdeu.
@@ -147,3 +147,4 @@
 - Mecânica: a pele de couro de Severino reduz 2 de cada dano de bala.
 - CABEÇA PARA BAIXO usada: o 20 natural de Severino virou erro (a bala passou raspando). Jax viu o mundo invertido e uma auréola brilhou em volta da cabeça dele, e todos na grota viram. Novo tiro (20 vs 14, sucesso pleno): estourou a mão esquerda/revólver de Severino; 8-2 = 6 de dano (Severino 11/25), desarmado, com as duas mãos arrebentadas. Severino se ajoelhou e se rendeu; os 7 jagunços restantes largaram as armas. Lenço vermelho morto.
 - +1 XP (desafio difícil vencido: emboscada e duelo) => XP 5/5: SOBE PARA O NÍVEL 3 (escolha do jogador pendente: +1 atributo, nova perícia ou melhoria no traço; +4 PV máx => 20).
+- Nível 3: o jogador escolheu +1 Mente (Mente +1). PV 9/20. Intimidação planejada para o nível 4.
