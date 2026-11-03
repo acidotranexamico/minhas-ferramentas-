@@ -115,3 +115,5 @@
 - ACORDO FECHADO: Jax apertou a mão do Chapéu Cinza ("estarei lá"). No toque, a espiral queimou e Jax viu por meio segundo uma mesa com taça, faca, moeda e bastão, e um oito deitado por cima (o Mago, sem nome). O Chapéu Cinza foi embora pela linha do trem, para o sul. Dália confirmou: a data do sargento mudou para SEXTA, ao pôr do sol. Rosa está livre da dívida com o Chapéu Cinza.
 - PROMESSA: Jax vai ao Poço Velho sexta ao pôr do sol, sozinho, sem bala e sem grito, e ouve a oferta inteira. Lurdes deve sair viva pela porteira de casa quando ele pisar no Poço.
 - +2 XP (Rosa livre, sargento vivo até sexta). XP 4/5.
+- Jax concluiu: o Chapéu Cinza é O MAGO. Disse a Rosa: "você está livre." Rosa: "Livre dele não é livre do Arrebol. Mas é um começo."
+- O Padre Inácio admitiu ser da Irmandade há 30 anos. Tem um caderno com cópia parcial do Livro dos Arcanos (muitos nomes em branco). Página do Mago: nome em branco, anotação "Visto no Arrebol, 1890" (ano em que lacraram o Poço e parou de chover).
