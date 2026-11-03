@@ -122,3 +122,5 @@
 - Rosa sobre Tomé: vaqueiro, fez o pacto em 1891 (força de três homens), Marca no peito. Uma noite ficou olhando para o leste e disse "Vou pagar uma conta que não é minha, Rosa." Saiu e voltou 3 dias depois, seco, deixado na porta da bodega.
 - Rosa não sabe de quem era a conta que Tomé pagou. A dívida que passou para ela era grande demais para o pacto pequeno de Tomé: "dívida de gente rica". Ela achou que era juro. Quando ela disse isso, o coração do Padre Inácio acelerou (Jax ouviu).
 - REVELAÇÃO: a dívida que Tomé pagou era do PADRE INÁCIO. Em 1892 a Irmandade tentou abrir o Poço Velho para ver o que havia embaixo; o Padre segurou a corda; deu errado e "alguém tinha que pagar". Tomé se ofereceu e o Padre deixou. Rosa ouviu tudo. A vela se apagou sozinha.
+- O Padre não viu o fundo do Poço. Quem desceu em 1892 foi o irmão Damião (Irmandade de Cruz das Almas): subiu com o cabelo todo branco e disse só "Tem uma criança lá embaixo. E ela tá presa num contrato." Morreu seco na semana seguinte.
+- Rosa saiu da sacristia pela porta dos fundos, com a trouxa, sem dizer nada, depois da confissão do Padre.
