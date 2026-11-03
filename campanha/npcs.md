@@ -38,3 +38,6 @@
 - **Sargento da volante:** bigode grisalho, ferido no peito, rendido. Carregava a lista de nomes.
 - **Primo do Zeca:** soldado jovem, olhos azuis. Baixou a arma no enterro.
 - **Dona Cida:** subiu o primeiro degrau do cadafalso, à frente do povo.
+- **Severino Couro:** líder dos jagunços da Fazenda, cabeça raspada, dente de ouro, pacto de Maldição (pele de couro). Perdeu o duelo para Jax, contou sobre a capela e a festa de sexta e foi solto. Partiu para o oeste. Tem um "buraco de silêncio" do tamanho de um punho no peito (9 anos sob a chuva da Fazenda). Pode voltar como aliado relutante ou ser caçado pelo Chapéu Cinza.
+- **Dona Benta:** velha líder do acampamento do bando, cachimbo de barro, lenço na cabeça. Conhece o cordel dos Vinte e Dois. Viu a auréola de Jax.
+- **Joana (10) e Tereza:** filhas de Matias, no acampamento das serras.
