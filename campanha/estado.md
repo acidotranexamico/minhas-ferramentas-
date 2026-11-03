@@ -14,7 +14,7 @@
 ## Relógios
 - A Grande Cobrança (oculto): [■■□□□□□□] (desceu 1: o povo se levantou e a seca foi denunciada)
 - Sexta-feira, pôr do sol: encontro no Poço Velho com o Cobrador e o Chapéu Cinza.
-- A Resposta da Fazenda (visível): [□□□□] três cavaleiros levaram a notícia.
+- A Resposta da Fazenda (visível): [■□□□] três cavaleiros levaram a notícia.
 
 ## Ajuste dinâmico
 - Últimos resultados: sucesso (discurso), sucesso (tiro-trovão), sucesso (tiro na mão).
@@ -90,3 +90,7 @@
 - O sargento ofereceu a cisterna secreta sob a Delegacia (o Coronel enchia todo mês para a volante; o Queiroga vendia água), em troca de ser solto para procurar Lurdes sozinho. Jax pegou a chave de ferro no colete do Delegado (Agilidade 11, "sim, mas"): as mãos pretas apertaram o pulso dele e viraram pó. Ficaram cinco marcas escuras de dedos no pulso de Jax, frias. O zumbido mudou de tom por um instante. O povo viu.
 - Dália na porta da Delegacia: o sargento "tem data" antes do pôr do sol. O Padre opera o sargento na mesa do Delegado, com Dália vigiando.
 - CISTERNA sob a Delegacia (alçapão sob o tapete): cheia, dá para a vila uma semana se racionar. Barris vazios com a marca BE. A água não faz som nenhum. Jax a escutou (Mente 9, "sim, mas"): por trás do silêncio, a cantiga de chuva da menina do Poço tocada AO CONTRÁRIO. O nariz sangrou; a gota afundou sem onda. A cantiga invertida ficou tocando na cabeça de Jax (presença da loucura, sem mecânica). O grito do sargento parou de repente.
+- Bala retirada do sargento (desacordado; vive se não infeccionar). Dália: "A data não mudou." Ela não vai matá-lo. Plano em discussão: escondê-lo na sacristia até o pôr do sol. Jax acha que a morte dele está encomendada pelo fazendeiro.
+- Dália contou: só viu uma data mudar de hora na vida, a do Queiroga (era fim da tarde, foi meio-dia, "com você do lado"). Zé Lua ela vê com nitidez; ele não foi a variável. Implicação: Jax (o Enforcado) altera datas perto dele.
+- O Padre Inácio ouviu a palavra "Ballatro" e agora sabe (ou suspeita) que Jax é um. Tem algo quadrado no bolso da batina (livro pequeno). O sino da igreja tocou em alarme.
+- Matias está com a chave da cisterna.

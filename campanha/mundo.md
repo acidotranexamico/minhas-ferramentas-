@@ -219,3 +219,6 @@ história pedir, um de cada vez.
 - O Chapéu Cinza quer Jax VIVO na sexta (ordem de cima). Suspeita que Matias seja a Força.
 - As marcas das mãos pretas no pulso de Jax são um "recibo" do Cobrador: deixam o Cobrador sentir Jax de perto (como a pena, mais fraco). Não somam Dívida. Pode ser lido por Dona Quitéria.
 - A água do Coronel é chuva contratada: carrega o canto de Celeste invertido (o pai tomou a chuva dela e a virou do avesso). Beber não amaldiçoa por si, mas é por isso que o Padre não consegue benzê-la. Quem bebe por anos fica mais propenso a pactos (desespero). Pode ser "desvirada" se Celeste cantar sobre ela (arco futuro).
+- O Enforcado está "suspenso fora do tempo": Dália não vê a data dele e, perto dele, as datas dos outros podem mudar de hora (adiantar ou atrasar). Isso pode salvar o sargento se Jax ficar com ele no momento certo, ou apressar a morte.
+- O Padre carrega um caderno de cópia parcial do Livro dos Arcanos (da Irmandade).
+- Sino de alarme (Sessão 3): a Resposta da Fazenda começa. Relógio [■□□□]. Primeiro movimento: carroças de água do Coronel chegando pela estrada do leste, com jagunços e o próprio Coronel como "benfeitor". Os moradores que foram pela estrada voltam junto, bebendo.
