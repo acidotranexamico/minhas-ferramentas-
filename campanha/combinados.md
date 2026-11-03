@@ -89,3 +89,10 @@ começo de toda sessão** e segue o que está aqui.
   da cena deve ser SEMPRE a última mensagem do turno, inteira, depois de todas as ferramentas. Nunca
   terminar o turno só com um "[OOC] anotado" ou um "O que você faz?" solto: o jogador vê só a mensagem
   final, e o resto some.
+
+## Ajustes do mestre (autoavaliação da Sessão 3)
+- Salvar e rolar ANTES, narrar DEPOIS e por inteiro. A última mensagem do turno é sempre a cena.
+- No combate, manter a narração cheia; dados em uma linha discreta.
+- Menos [OOC] no meio da cena.
+- Conferir `estado.md` antes de descrever recursos (munição, PV, objetos já destruídos).
+- Alternar revelações com ação e respiro; evitar muitas revelações seguidas.
