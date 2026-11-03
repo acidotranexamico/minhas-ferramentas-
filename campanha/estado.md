@@ -14,7 +14,7 @@
 ## Relógios
 - A Grande Cobrança (oculto): [■■□□□□□□] (desceu 1: o povo se levantou e a seca foi denunciada)
 - Sexta-feira, pôr do sol: encontro no Poço Velho com o Cobrador e o Chapéu Cinza.
-- A Resposta da Fazenda (visível): [■□□□] três cavaleiros levaram a notícia.
+- A Resposta da Fazenda (visível): [■■□□] três cavaleiros levaram a notícia.
 
 ## Ajuste dinâmico
 - Últimos resultados: sucesso (discurso), sucesso (tiro-trovão), sucesso (tiro na mão).
@@ -94,3 +94,7 @@
 - Dália contou: só viu uma data mudar de hora na vida, a do Queiroga (era fim da tarde, foi meio-dia, "com você do lado"). Zé Lua ela vê com nitidez; ele não foi a variável. Implicação: Jax (o Enforcado) altera datas perto dele.
 - O Padre Inácio ouviu a palavra "Ballatro" e agora sabe (ou suspeita) que Jax é um. Tem algo quadrado no bolso da batina (livro pequeno). O sino da igreja tocou em alarme.
 - Matias está com a chave da cisterna.
+- Bala retirada da coxa de Jax (PV 11/16). Matias e o Padre levaram o sargento para a sacristia.
+- O CORONEL CHEGOU à praça: 3 carroças-pipa, ~20 jagunços, terno de linho branco sem poeira, bengala de castão de prata. Deu água de graça. Pediu "o assassino do Zeca" para julgar na capital, em troca de água 2x por semana. Disse que assiste missa na capela da Fazenda (construída para Eulália). Perguntou se Jax se confessou do Zeca.
+- Jax acusou publicamente a chuva da Fazenda (Presença 9 vs CD 14, "não, e…"): o Coronel convidou o povo a ir à Boa Esperança na SEXTA ver a chuva ("a porteira vai estar aberta"). Prazo: a vila responde até sexta. Dona Cida bebeu a água. Metade da praça está com o Coronel. Dália, da torre, encarou o Coronel por muito tempo.
+- Ajuste dinâmico: sim-mas, sim-mas, não-e. Próximo desafio não deve piorar a mesma situação.
