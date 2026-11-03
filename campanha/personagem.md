@@ -33,7 +33,7 @@ querer essa assinatura.
 
 - **Livre (sem Dívida):** ouvir conversas através de paredes e a distância; sentir vibrações no chão
   (difícil surpreendê-lo pelas costas).
-- **Uso intenso (+1 Dívida), escolha um:**
+- **Uso intenso (1 dos 5 usos do dia), escolha um:**
   - **Ressonância:** fazer vibrar até romper um objeto pequeno ou médio (corda, corrente, fechadura,
     vidro, cano de arma). Teste de Mente contra a CD da estrutura.
   - **Calmaria:** amortecer as ondas em volta de uma pessoa. Ela testa Presença contra CD 13 ou fica
@@ -55,7 +55,8 @@ Ao encontrar a Viúva Branca (A Morte), as Marcas dos dois arderam e cada um viu
   carta: martírio inútil, sacrifício sem sentido, compulsão por pagar dívidas que não são dele.
 - O Cobrador só cobra a Dívida 12.
 
-**Dívida: 0/10** (zera a cada descanso longo)
+**Usos intensos hoje (Dívida): 2/5** (zera no descanso longo; máximo 5 por dia)
+**Loucura (permanente): 0** · Desvarios em Loucura 2, 4 e 6 · cada uso a partir do 4º no dia: +1 Loucura
 
 ## Motivação
 Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão.

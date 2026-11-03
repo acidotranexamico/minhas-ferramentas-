@@ -35,6 +35,30 @@ começo de toda sessão** e segue o que está aqui.
   situação várias vezes seguidas. CDs de 14–15 só para o que for realmente difícil; o padrão é 12.
 - Falha deve abrir caminho novo, não só tirar coisas do jogador.
 
+## Poder e loucura (ajuste do jogador, após a Sessão 2)
+- **Limite de 5 usos intensos do poder por descanso longo.** A Dívida passa a contar esses usos
+  (0 a 5) e zera no descanso longo. O sexto uso no mesmo dia não existe: o poder simplesmente falha.
+- **A loucura escala com o uso.** O jogador vai interpretar a loucura crescendo. O mestre apoia
+  com a mecânica: cada uso intenso a partir do **4º no mesmo dia** soma **+1 Loucura**, que é
+  **permanente** (não zera). Os Desvarios chegam em **Loucura 2, 4 e 6** e são o lado invertido do
+  Enforcado (martírio, sacrifício sem sentido, compulsão por pagar dívidas alheias).
+- O mestre deve dar à loucura presença na cena: vozes, visões invertidas, o zumbido que muda de tom,
+  a menina do Poço cantando dentro da cabeça. Nunca decidir pelo Jax, só oferecer o estranho.
+
+## Arco do Jax (visão do jogador)
+- O Enforcado é olhar o mundo por outro ponto de vista. O Arco I é a **redenção** do Jax, mas
+  incompleta: o tom heroico desta fase é intencional.
+- A partir da Sessão 3, o Jax fica **mais sombrio** conforme a loucura aparece.
+- O mestre deve **fechar pontas soltas** na Sessão 3: a promessa à Rosa (tirá-la do Arrebol),
+  Dona Quitéria em Cruz das Almas, a lista do sargento, o que a Dália leu nos lábios do Chapéu Cinza.
+  Cumprir ou trair promessas deve ser uma escolha real do jogador.
+
+## Ajustes do mestre (autoavaliação da Sessão 2)
+- Espaçar os Ballatros: no máximo um novo por sessão.
+- Menos conveniência: aliados não aparecem na hora exata sem preço.
+- Manter a tensão no clímax: depois de uma série de sucessos, o desafio sobe.
+- Nada de exposição escrita (bilhetes, lama) com mais de uma linha.
+
 ## Narração do jogador e resultado dos dados
 - O jogador descreve a ação já com o resultado que **deseja** (ele não sabe o que o dado vai dar).
 - O mestre trata essa descrição como **intenção**, rola os dados e **ajusta o resultado** à

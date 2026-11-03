@@ -4,7 +4,7 @@
 
 - **Sessão:** 3 (próxima) · **Data no jogo:** quarta-feira, meio-dia, 1897
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
-- **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Dívida:** 2 (zera no próximo descanso longo)
+- **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Usos intensos hoje:** 2/5 (zera no descanso longo) · **Loucura:** 0
 - **Cabeça para Baixo:** disponível de novo na próxima sessão
 - **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester vazia; chapéu com a
   ferradura de prata; tordilho. A faca de bota se perdeu.

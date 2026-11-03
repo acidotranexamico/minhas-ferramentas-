@@ -204,3 +204,12 @@ história pedir, um de cada vez.
   Fazenda. Reação planejada: chegar como benfeitor (água, comida, perdão), dividir a vila e pedir
   que entreguem "o assassino do Zeca". Só usar força se a divisão falhar.
 - Jax já suspeita da Fazenda por dedução própria. Manter as pistas indiretas até o nível 4.
+
+### Plano para a Sessão 3
+- Pontas a fechar: Rosa (promessa de tirá-la do Arrebol; a dívida dela é do Chapéu Cinza),
+  Dona Quitéria (Cruz das Almas, lê a memória apagada de Jax), a lista do sargento, o que Dália leu.
+- A loucura aparece: a voz da menina do Poço começa a cantar na cabeça de Jax depois de usos
+  intensos; o zumbido muda de tom; visões de cabeça para baixo.
+- A Fazenda responde: o Coronel chega como benfeitor, oferece água e perdão, e pede "o assassino do
+  Zeca". Divide a vila. Rosa é o ponto fraco que ele vai usar.
+- Nenhum Ballatro novo na Sessão 3, salvo se o jogador procurar.
