@@ -132,3 +132,4 @@
 - Rosa deu a Jax a carta XVII A Estrela ("lembra que tem alguém aqui embaixo que canta") e deixou o chapéu de Tomé sobre a tampa do Poço.
 - GANCHO: Jax sente pela terra 20 a 30 cavaleiros vindos do leste (Fazenda), indo para o NORTE, para as serras, na direção do acampamento do Zé Lua (cego até amanhã; as filhas de Matias estão lá). Pôr do sol se aproximando.
 - Rosa foi descansar sozinha. Matias está na sacristia conversando com o sargento (as filhas: Joana, 10, e Tereza, a pequena). Zé Lua, cego, está na vila. Da vila às serras: ~1h30 a cavalo. Os cavaleiros da Fazenda vão a trote, sem correr.
+- MOBILIZAÇÃO: Matias (com espingarda) e 8 homens do bando montados; 4 ficam guardando a vila e as carroças. O Padre fica com o sargento. Zé Lua (cego, com venda) indicou a trilha das Pedras Pretas: mais curta, perigosa à noite para os cavalos. Pela estrada, os jagunços chegam antes. Dália, na porta da igreja: "Tem gente com data hoje lá em cima. Muita." Pôr do sol.
