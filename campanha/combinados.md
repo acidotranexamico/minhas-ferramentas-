@@ -85,3 +85,7 @@ começo de toda sessão** e segue o que está aqui.
   linha curta (ou embutida), e status só em uma linha pequena no fim, quando mudar algo importante.
 - Evitar listas e marcadores dentro da narração.
 - Mensagens de [OOC] só quando forem necessárias, e curtas.
+- **Regra técnica para o mestre:** salvar arquivos e rolar dados ANTES de narrar. A narração completa
+  da cena deve ser SEMPRE a última mensagem do turno, inteira, depois de todas as ferramentas. Nunca
+  terminar o turno só com um "[OOC] anotado" ou um "O que você faz?" solto: o jogador vê só a mensagem
+  final, e o resto some.
