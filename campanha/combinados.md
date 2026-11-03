@@ -25,6 +25,16 @@ começo de toda sessão** e segue o que está aqui.
   explicar. O jogador tira as conclusões.
 - **Deixe silêncio na cena.** Termine o turno com uma ação do NPC ou um detalhe, não com um resumo.
 
+## Dívida e dados (ajuste do jogador, Sessão 2)
+- **A Dívida zera após um descanso longo.** Ela mede o peso do poder dentro de um dia, não da
+  campanha inteira. Os Desvarios já ganhos continuam.
+- **O jogador rola o d20** (no Google) e escreve o resultado entre parênteses, por exemplo "(14)".
+  O mestre usa esse número. Se a mensagem não trouxer número, o mestre rola.
+- **Menos punição em sequência.** Aplicar de verdade o ajuste dinâmico (3 falhas seguidas, o próximo
+  desafio fica mais fácil ou surge ajuda coerente). Evitar empilhar "não, e…" que piorem a mesma
+  situação várias vezes seguidas. CDs de 14–15 só para o que for realmente difícil; o padrão é 12.
+- Falha deve abrir caminho novo, não só tirar coisas do jogador.
+
 ## Narração do jogador e resultado dos dados
 - O jogador descreve a ação já com o resultado que **deseja** (ele não sabe o que o dado vai dar).
 - O mestre trata essa descrição como **intenção**, rola os dados e **ajusta o resultado** à

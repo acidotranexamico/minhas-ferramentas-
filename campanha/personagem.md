@@ -5,20 +5,20 @@ deu errado. Bigode e cavanhaque, magro e de músculos secos, mais rápido que fo
 Chapéu de couro com uma **ferradura de prata virada para baixo**. Desbocado, não leva
 desaforo para casa.
 
-**Nível 1 · XP 4/5 · Modo Equilibrado**
+**Nível 2 · XP 2/5 · Modo Equilibrado**
 
 ## Atributos
 | Força | Agilidade | Mente | Presença |
 |---|---|---|---|
-| +1 | **+2** | 0 | +1 |
+| +1 | **+3** | 0 | +1 |
 
 ## Perícias treinadas (+2)
-- **Tiro:** ataques com armas de fogo ficam em 1d20 + 4.
-- **Furtividade:** 1d20 + 4.
+- **Tiro:** ataques com armas de fogo ficam em 1d20 + 5.
+- **Furtividade:** 1d20 + 5.
 
 ## Combate
-- **PV:** 12/12
-- **Defesa:** 13 (10 + Agilidade 2 + gibão de couro leve 1)
+- **PV:** 16 máximos
+- **Defesa:** 14 (10 + Agilidade 3 + gibão de couro leve 1)
 
 ## Traço: Mão Mais Rápida do Sul
 Em duelo ou no início de um combate, se estiver com a arma no coldre, Jax **age primeiro**,
@@ -55,7 +55,7 @@ Ao encontrar a Viúva Branca (A Morte), as Marcas dos dois arderam e cada um viu
   carta: martírio inútil, sacrifício sem sentido, compulsão por pagar dívidas que não são dele.
 - O Cobrador só cobra a Dívida 12.
 
-**Dívida: 2/10**
+**Dívida: 0/10** (zera a cada descanso longo)
 
 ## Motivação
 Recomeçar e ser livre: pequenos assaltos, caçar recompensas e não ter patrão.

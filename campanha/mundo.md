@@ -33,6 +33,7 @@ assinado com sangue.
   de loucura (ouve a voz do Cobrador, não suporta água benta, obsessão, alucinações…).
 - Reduzir Dívida exige **pagar o Cobrador**: oferenda, sacrifício, ritual ou favor.
   O preço é sempre narrativo e sempre dói.
+- **Descanso longo zera a Dívida** (os Desvarios já ganhos permanecem).
 - **Dívida 10:** o Cobrador vem cobrar. Sempre há aviso antes, e um último ato de
   resgate ou de recusa é possível.
 
@@ -167,7 +168,7 @@ ou quando o jogador ignora as mortes. Com 8 segmentos, Teodoro ascende.
 | XV O Diabo | **Coronel Teodoro Brandão** | Vilão (e Cobrador) | Acorrenta: quem deve a ele não consegue agir contra ele sem pagar | Revelação no meio da campanha |
 | XVI A Torre | **Tonho Verdugo** (o laço de Jax) | Vilão/rival | Ruína: tudo que ele odeia desaba | Arco II, movido pelo ódio a Jax |
 | XVII A Estrela | **Celeste**, no fundo do Poço Velho | Aliada (chave) | O canto: traz água, esperança e cura; desfaz a seca | Investigação do Poço |
-| XVIII A Lua | **Zé Lua**, chefe do bando | Neutro | Ilusões e sombra; ninguém o acha se ele não quiser | Fim do arco I, se Jax procurar o bando |
+| XVIII A Lua (revelado na Sessão 2) | **Zé Lua**, chefe do bando | Aliado | Ilusões e sombra; ninguém o acha se ele não quiser | Fim do arco I, se Jax procurar o bando |
 
 As outras cartas estão sem dono conhecido, mortas ou escondidas. Crie novos Ballatros quando a
 história pedir, um de cada vez.
@@ -189,3 +190,17 @@ história pedir, um de cada vez.
   segmento inteiro** do relógio da Grande Cobrança. Ele caça cartados em silêncio, e Jax acabou de
   se tornar o mais interessante do vale.
 - O Chapéu Cinza armou para Jax sem saber que ele era cartado. Quando o Diabo souber, a caçada muda.
+
+### Contagem oculta: Juros do Cobrador
+- **Juros: 1** (ainda não cobrado) (Sessão 2: Jax usou sangue derramado como moeda num contrato improvisado; o Cobrador ouviu e anotou). Cada Juros vira +1 Dívida real quando o Cobrador achar conveniente (por exemplo, no encontro no Poço). O jogador não sabe o número.
+
+### Sessão 2: rebelião
+- Jax iniciou uma rebelião em Santa Luzia junto com o bando do Zé Lua. O Coronel vai reagir. O relógio da Grande Cobrança sobe 1 se houver mortes civis ou se Matias morrer; desce 1 se o povo se levantar e a seca for denunciada.
+
+### Notas da Sessão 2
+- O Cobrador deu mãos ao Delegado, e elas tinham vontade própria (presente com custo).
+- A lista do sargento foi escrita pelo Chapéu Cinza. Jax e Matias são os dois nomes "em aberto".
+- Teodoro sabe agora, pelos três cavaleiros, que a vila se levantou e que o forasteiro acusou a
+  Fazenda. Reação planejada: chegar como benfeitor (água, comida, perdão), dividir a vila e pedir
+  que entreguem "o assassino do Zeca". Só usar força se a divisão falhar.
+- Jax já suspeita da Fazenda por dedução própria. Manter as pistas indiretas até o nível 4.
