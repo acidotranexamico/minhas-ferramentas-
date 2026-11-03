@@ -2,7 +2,7 @@
 
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
-- **Sessão:** 3 (próxima) · **Data no jogo:** quarta-feira, meio-dia, 1897
+- **Sessão:** 3 (em andamento) · **Data no jogo:** quarta-feira, meio-dia, 1897
 - **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
 - **PV:** 9/16 · **XP:** 2/5 (Nível 2) · **Usos intensos hoje:** 2/5 (zera no descanso longo) · **Loucura:** 0
 - **Cabeça para Baixo:** disponível de novo na próxima sessão
