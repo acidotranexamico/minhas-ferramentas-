@@ -149,3 +149,4 @@
 - +1 XP (desafio difícil vencido: emboscada e duelo) => XP 5/5: SOBE PARA O NÍVEL 3 (escolha do jogador pendente: +1 atributo, nova perícia ou melhoria no traço; +4 PV máx => 20).
 - Nível 3: o jogador escolheu +1 Mente (Mente +1). PV 9/20. Intimidação planejada para o nível 4.
 - Interrogatório de Severino (Presença 19+1 = 20 vs CD 14, sucesso pleno): na capela da Fazenda há um alçapão; o Coronel desce sozinho toda sexta antes da chuva; ninguém entra; lá embaixo cheira a tinta e papel velho; o Chapéu Cinza às vezes sai de lá. Bônus: para esta sexta, o Coronel mandou preparar comida para 500 pessoas: quer a vila inteira dentro da Fazenda na hora da chuva. Severino pediu um cavalo e vai embora (a decisão é de Jax).
+- Severino não sabe por que o Coronel quer a vila na Fazenda. Contou que quem vive lá debaixo da chuva há anos fica "quieto": trabalha, obedece, não chora nem em enterro. Jax ouviu: o pontinho mudo no peito de Severino é enorme, do tamanho de um punho.
