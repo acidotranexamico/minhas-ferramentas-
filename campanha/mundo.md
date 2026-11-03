@@ -228,3 +228,19 @@ história pedir, um de cada vez.
 - Tomé Bezerra foi o Enforcado anterior. Cobrado em 1892 (encheu um segmento inteiro da Grande Cobrança). A carta ficou sem dono até cair em Jax. "Não se toma, só se entrega": a alma do Enforcado só pode ser cobrada se ele se oferecer (por isso o Chapéu Cinza quer Jax vivo e quer que ele aceite "trocar de dono" uma dívida). Tomé se entregou para pagar a dívida de alguém (Rosa?).
 - Tomé assumiu, em 1892, a dívida do Padre Inácio: a Irmandade tentou abrir o Poço Velho (para chegar a Celeste) e o Debaixo cobrou. A cobrança, feita contra uma Calamidade, era enorme. Tomé, o Enforcado, se entregou; a sobra passou a Rosa, e o Chapéu Cinza a explorou. A culpa do Padre explica as mãos trêmulas.
 - Reação da Fazenda: enquanto oferece água à vila, o Coronel manda jagunços "limparem" o acampamento do bando (bandidos não contam para a imagem de benfeitor). Objetivo: capturar ou matar Zé Lua cego e pegar reféns (as filhas de Matias) para pressionar Matias, a Força. Se der certo, a Resposta da Fazenda vai a 3/4.
+- PLANO DE SEXTA: a "porteira aberta" é uma armadilha. Com a vila inteira dentro da Fazenda sob a chuva contratada, o Coronel quer penhorar em massa os pontinhos mudos de quem bebeu (avanço de 1 ou 2 segmentos da Grande Cobrança). Coincide com o Poço ao pôr do sol (Jax) e com a hora do sargento.
+
+## Fatos estabelecidos em jogo (Sessão 3)
+- Há uma cisterna secreta sob a Delegacia com água da Fazenda. A água do Coronel não faz som e carrega a cantiga de chuva invertida.
+- Quem bebe a água do Coronel por anos tem um "ponto mudo" no peito, que cresce com o consumo.
+- Tomé Bezerra, marido de Rosa, foi o Enforcado anterior (morto em 1892). "O Enforcado não se toma. Só se entrega."
+- Em 1892 a Irmandade tentou abrir o Poço Velho; o irmão Damião desceu, viu "uma criança presa num contrato" e morreu seco. Tomé pagou a dívida do Padre Inácio.
+- A família Brandão (Eulália e 4 filhos) morreu da "febre do açude" em 1890 e foi enterrada na Fazenda, sem padre.
+- Há um alçapão de ferro atrás do altar da capela da Fazenda, com cheiro de tinta e papel velho.
+- Na sexta haverá festa na Fazenda para 500 pessoas, debaixo da chuva.
+
+### Plano para a Sessão 4 (mestre)
+- O Coronel sabe que Jax é cartado. Reação: tentar comprar a vila de vez (festa), isolar Jax e preparar o Poço. O Chapéu Cinza vai cobrar a palavra de Jax.
+- Dália: revelar o que leu nos lábios do Chapéu Cinza quando Jax perguntar ou ganhar a confiança dela (sugestão: "A senhorita está com sede." Uma fala sobre a menina do Poço, sem nome).
+- Severino pode reaparecer no Arco II como aliado relutante.
+- Os Juros do Cobrador continuam em 1 (não cobrados).

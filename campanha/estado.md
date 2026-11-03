@@ -2,25 +2,38 @@
 
 > Antes de jogar, leia também `combinados.md` (acordos da mesa).
 
-- **Sessão:** 3 (em andamento) · **Data no jogo:** quarta-feira, meio-dia, 1897
-- **Local:** cadafalso da praça de Santa Luzia do Pó, diante do povo
-- **PV:** 9/20 · **XP:** 0/5 (Nível 3) · **Usos intensos hoje:** 3/5 (zera no descanso longo) · **Loucura:** 0
-- **Cabeça para Baixo:** GASTA na Sessão 3 (duelo com Severino)
-- **Equipamento:** Pão de Alho (6 tiros) e 4 cartuchos .44; Winchester com 12 cartuchos (do bando); chapéu com a
-  ferradura de prata; tordilho. A faca de bota se perdeu.
-- **Aliados presentes:** Matias (Ballatro da Força), Zé Lua (Ballatro da Lua, cego até quinta) e o
-  bando (~12 homens), Dália (Ballatro da Morte, neutra), Padre Inácio, Rosa Preta, Dona Cida e o povo.
+- **Sessão:** 4 (próxima) · **Data no jogo:** quinta-feira, amanhecer, 1897
+- **Local:** acampamento do bando do Zé Lua, numa grota nas serras ao norte de Santa Luzia
+- **PV:** 20/20 · **XP:** 0/5 (Nível 3) · **Usos intensos hoje:** 0/5 (zerou no descanso longo) · **Loucura:** 0
+- **Cabeça para Baixo:** disponível de novo na Sessão 4
+- **Equipamento:** Pão de Alho (.44, recarregado) e cartuchos .44; Winchester (~10 cartuchos);
+  chapéu com a ferradura de prata; tordilho; carta XVII A Estrela (de Rosa); passarinho de barro
+  de assobiar (de Joana). A faca de bota está com Matias.
+- **Marcas:** cinco marcas pretas de dedos no pulso esquerdo (das mãos do Delegado), frias.
+  A cantiga invertida toca baixinho na cabeça de Jax desde a cisterna.
+- **Com Jax no acampamento:** Matias e as filhas (Joana e Tereza), Dona Benta, o bando e 7 jagunços rendidos.
+- **Na vila:** Zé Lua (cego até hoje), 4 homens do bando, Padre Inácio com o sargento, Rosa, Dália, Bento, Dona Cida.
+
+## Promessas e compromissos de Jax
+- **Água para Santa Luzia** até sexta ao meio-dia (feita em público). Há a cisterna sob a Delegacia
+  (a chave está com Matias), mas é água do Coronel, muda, com a cantiga invertida.
+- **Água para Dona Cida** (dita a Bento).
+- **Tirar Rosa do Arrebol** (Sessão 1). Ela já está livre da dívida com o Chapéu Cinza.
+- **Ir ao Poço Velho na sexta ao pôr do sol**, sozinho, sem bala e sem grito, e ouvir a oferta inteira
+  do Chapéu Cinza (aperto de mão). Em troca: o sargento vive até sexta e Lurdes sai viva pela porteira.
 
 ## Relógios
-- A Grande Cobrança (oculto): [■■□□□□□□] (desceu 1: o povo se levantou e a seca foi denunciada)
-- Sexta-feira, pôr do sol: encontro no Poço Velho com o Cobrador e o Chapéu Cinza.
-- A Resposta da Fazenda (visível): [■■□□] três cavaleiros levaram a notícia.
+- A Grande Cobrança (oculto): [■■□□□□□□]
+- **Sexta-feira** acumula: a porteira aberta da Fazenda (festa para 500, a vila sob a chuva), o Poço
+  ao pôr do sol e a hora do sargento (Dália).
+- A Resposta da Fazenda (visível): [■■■□] o ataque ao acampamento falhou; os jagunços que fugiram
+  vão contar que o forasteiro é cartado.
 
 ## Ajuste dinâmico
-- Últimos resultados: sucesso (discurso), sucesso (tiro-trovão), sucesso (tiro na mão).
-  Próximo desafio pode subir um degrau.
+- Últimos resultados: 9 (sim, mas), 6 com desvantagem (errou), 18 (acerto), 20 (acerto pleno), 20 (sucesso pleno).
+  Série de sucessos: o próximo desafio pode subir um degrau.
 
-## Flags
+## Flags (histórico detalhado)
 - Jax confessou publicamente o roubo do trem. Parte da vila murmura que ele tem razão sobre os ricos.
 - A carroça-pipa do Coronel foi furada por um tiro acidental e derramou água. A multidão se jogou em cima para beber.
 - Jax feriu um soldado da volante com a faca (ficou 3/4 PV). O Delegado ficou humilhado: o .44 de Jax falhou na frente de todos.
@@ -148,3 +161,6 @@
 - CABEÇA PARA BAIXO usada: o 20 natural de Severino virou erro (a bala passou raspando). Jax viu o mundo invertido e uma auréola brilhou em volta da cabeça dele, e todos na grota viram. Novo tiro (20 vs 14, sucesso pleno): estourou a mão esquerda/revólver de Severino; 8-2 = 6 de dano (Severino 11/25), desarmado, com as duas mãos arrebentadas. Severino se ajoelhou e se rendeu; os 7 jagunços restantes largaram as armas. Lenço vermelho morto.
 - +1 XP (desafio difícil vencido: emboscada e duelo) => XP 5/5: SOBE PARA O NÍVEL 3 (escolha do jogador pendente: +1 atributo, nova perícia ou melhoria no traço; +4 PV máx => 20).
 - Nível 3: o jogador escolheu +1 Mente (Mente +1). PV 9/20. Intimidação planejada para o nível 4.
+- Interrogatório de Severino (Presença 19+1 = 20 vs CD 14, sucesso pleno): na capela da Fazenda há um alçapão; o Coronel desce sozinho toda sexta antes da chuva; ninguém entra; lá embaixo cheira a tinta e papel velho; o Chapéu Cinza às vezes sai de lá. Bônus: para esta sexta, o Coronel mandou preparar comida para 500 pessoas: quer a vila inteira dentro da Fazenda na hora da chuva. Severino pediu um cavalo e vai embora (a decisão é de Jax).
+- Severino não sabe por que o Coronel quer a vila na Fazenda. Contou que quem vive lá debaixo da chuva há anos fica "quieto": trabalha, obedece, não chora nem em enterro. Jax ouviu: o pontinho mudo no peito de Severino é enorme, do tamanho de um punho.
+- Jax soltou Severino Couro com um cavalo e o avisou: fugir para longe, o Chapéu Cinza deve saber que ele falou, e balas não funcionam contra ele. Severino partiu para o OESTE (longe da Fazenda). Os 7 jagunços rendidos estão amarrados no acampamento. Quarta à noite. Joana deu a Jax um passarinho de barro.
