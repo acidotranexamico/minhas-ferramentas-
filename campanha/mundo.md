@@ -223,3 +223,5 @@ história pedir, um de cada vez.
 - O Padre carrega um caderno de cópia parcial do Livro dos Arcanos (da Irmandade).
 - Sino de alarme (Sessão 3): a Resposta da Fazenda começa. Relógio [■□□□]. Primeiro movimento: carroças de água do Coronel chegando pela estrada do leste, com jagunços e o próprio Coronel como "benfeitor". Os moradores que foram pela estrada voltam junto, bebendo.
 - O "pontinho mudo" é o começo de penhora: a água contratada vai preparando a alma de quem bebe para ser cobrada com mais facilidade (e puxa o desespero que leva a pactos). Cresce com o consumo. Não é um contrato; ainda dá para reverter (o canto de Celeste, água limpa, tempo sem beber).
+- O Chapéu Cinza (o Mago) consegue ABAFAR a ressonância com o poder de percepção, mas só parcialmente cara a cara: a Marca de Jax pinica e a sombra dele tremula. Revelação plena no fim do Arco I.
+- A hora do sargento foi marcada pelo Cobrador/patrão do Chapéu Cinza, não por ele. Ele quer Jax vivo e assinando na sexta; usa o sargento e Lurdes como alavanca. Perto de Jax, a data do sargento pode mudar de hora.
