@@ -77,3 +77,11 @@ começo de toda sessão** e segue o que está aqui.
 ## Tom
 - Sombrio, investigativo e épico. O jogador vai manter as ações coerentes com esse tom.
 - Humor raro e seco é bem-vindo; piadas de cultura pop contam como tempero, não como regra.
+
+## Estilo das mensagens (pedido do jogador, Sessão 3)
+- **Narração cheia, não resumida.** Turnos curtos não quer dizer telegráficos: manter o fluxo
+  descritivo e imersivo, com sentidos e ritmo, como nas primeiras cenas da Sessão 3.
+- **Mecânica discreta.** Nada de blocos de dados e listas de status no meio da cena. Rolagem em uma
+  linha curta (ou embutida), e status só em uma linha pequena no fim, quando mudar algo importante.
+- Evitar listas e marcadores dentro da narração.
+- Mensagens de [OOC] só quando forem necessárias, e curtas.
